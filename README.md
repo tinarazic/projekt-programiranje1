@@ -2,7 +2,7 @@
 Repozitorij namenjen projektu pri predmetu Programiranje 1.
 
 Naslov moje projektne naloge je: Analiza ponudbe stanovanj v Ljubljani.
-Podatke bom pridobila s spletne strani strani www.nepremicnine.net. Nato pa bom s pomočjo urejenih podatkov poskušala analizirati naslednje:
+Podatke bom pridobila s spletne strani strani https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/. Nato pa bom s pomočjo urejenih podatkov poskušala analizirati naslednje:
 - v katerih upravnih enotah je ponudba največja?
 - ali se prodaja več stanovanj v blokih ali v hišah?
 - ali leto gradnje vpliva na ceno?
@@ -11,5 +11,5 @@ Podatke bom pridobila s spletne strani strani www.nepremicnine.net. Nato pa bom 
 - katera agencija ima v lasti največ ponudb?
 ...
 
-https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/
+
 
