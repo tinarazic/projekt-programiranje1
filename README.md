@@ -1,5 +1,5 @@
 # Analiza ponudbe stanovanj v Ljubljani
-Repozitorij namenjen projektu pri predmetu Programiranje 1.
+
 
 Naslov moje projektne naloge je: Analiza ponudbe stanovanj v Ljubljani.
 
