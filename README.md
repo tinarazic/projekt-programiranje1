@@ -1,7 +1,6 @@
 # Analiza ponudbe stanovanj v Ljubljani
 
-
-Naslov moje projektne naloge je: Analiza ponudbe stanovanj v Ljubljani.
+V svoji projektni nalogi bom analizirala ponudbo stanovanj v Ljubljani.
 
 Podatke bom pridobila s spletne strani strani https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/. 
 Za vsako stanovanje bom pridobila naslednje podatke:
