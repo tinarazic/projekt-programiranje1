@@ -5,12 +5,12 @@ V svoji projektni nalogi bom analizirala ponudbo stanovanj v Ljubljani.
 Podatke bom pridobila s spletne strani strani https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/. 
 Za vsako stanovanje bom pridobila naslednje podatke:
 - upravno enoto
-- leto gradnje
 - tip stanovanja
+- leto gradnje
+- leto adapatcije
 - velikost stanovanja
 - ceno stanovanja
 - nadstropje
-- izpostavljenost na spletni strani
 - nepremičninsko agencijo
 
 Nato pa bom s pomočjo urejenih podatkov poskušala analizirati:
