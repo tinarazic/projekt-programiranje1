@@ -23,7 +23,9 @@ for i in range(1, 60):
         'oglasi-prodaja/'
         'ljubljana-mesto/stanovanje/{}/'
     ).format(i)
-    orodja.shrani_spletno_stran(url, 'zajete_strani/stanovanja_ljubljana_{}.html'.format(i))
+    orodja.shrani_spletno_stran(
+        url, 'zajete_strani/stanovanja_ljubljana_{}.html'.format(i)
+    )
 
 # sestavimo vzorec, ki poišče vse bloke oglasov
 
@@ -85,15 +87,19 @@ for blok in oglasi:
         oglas['nadstropje'] = str(oglas['nadstropje'])
         oglas['leto'] = int(oglas['leto'])
         oglas['opis'] = str(oglas['opis'])
-        oglas['velikost'] = float(oglas['velikost'].replace(',','.'))
-        oglas['cena'] = float(oglas['cena'].replace('.','').replace(',','.'))
+        oglas['velikost'] = float(oglas['velikost'].replace(',', '.'))
+        oglas['cena'] = float(oglas['cena'].replace('.', '').replace(',', '.'))
         oglas['agencija'] = str(oglas['agencija'])
         slovarji.append(oglas)
 
-# vsak slovar vsebuje ključe: 
+# vsak slovar vsebuje ključe:
 # id, tip, nadstropje, leto, opis, velikost, cena, agencija
 
 # zapišimo sedaj podatke v csv (in json za vpogled) in razvrstimo stolpce
 
-orodja.zapisi_csv(slovarji, ['id', 'tip', 'leto', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'], 'obdelani-podatki/stanovanja.csv')
+orodja.zapisi_csv(
+    slovarji,
+    ['id', 'tip', 'leto', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'],
+    'obdelani-podatki/stanovanja.csv'
+)
 orodja.zapisi_json(slovarji, 'obdelani-podatki/stanovanja.json')
