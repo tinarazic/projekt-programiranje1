@@ -15,7 +15,8 @@ import orodja
 # ime CSV datoteke v katero bomo shranili podatke
 # 'stanovanja.csv'
 
-# najprej shranim vse strani dne 23.10.2018 (od 1 do 59, vse skupaj 1768 zadetkov)
+# najprej shranim vse strani dne 23.10.2018
+# (od 1 do 59, vse skupaj 1768 zadetkov)
 
 for i in range(1, 60):
     url = (
@@ -69,6 +70,7 @@ vzorec_adaptacija = re.compile(
 
 # poiščemo vse bloke oglasov na spletni strani
 
+
 def stanovanja_na_strani(st_strani):
     ime_datoteke = 'zajete_strani/stanovanja_ljubljana_{}.html'.format(
         st_strani)
@@ -121,11 +123,14 @@ for blok in oglasi:
 # vsak slovar vsebuje ključe:
 # id, tip, nadstropje, leto, opis, velikost, cena, agencija, enota, adaptirano
 
-# zapišimo sedaj podatke v csv (in json za vpogled) in razvrstimo stolpce
+# zapišimo sedaj podatke v csv in razvrstimo stolpce
 
 orodja.zapisi_csv(
     slovarji,
-    ['id', 'enota', 'tip', 'leto', 'adaptirano', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'],
+    ['id', 'enota', 'tip', 'leto', 'adaptirano', 'nadstropje',
+     'velikost', 'cena', 'agencija', 'opis'],
     'obdelani-podatki/stanovanja.csv'
 )
+# zapišemo še v json datoteki za pregled
+
 orodja.zapisi_json(slovarji, 'obdelani-podatki/stanovanja.json')
