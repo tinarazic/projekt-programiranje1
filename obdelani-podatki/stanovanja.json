@@ -21,7 +21,7 @@
         "cena": 106000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207003,
@@ -33,7 +33,7 @@
         "cena": 111500.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219793,
@@ -45,7 +45,7 @@
         "cena": 437000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217083,
@@ -57,7 +57,7 @@
         "cena": 247000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190628,
@@ -69,7 +69,7 @@
         "cena": 654620.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6102974,
@@ -81,7 +81,7 @@
         "cena": 770000.0,
         "agencija": "Hiša Invest d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6112172,
@@ -105,7 +105,7 @@
         "cena": 268000.0,
         "agencija": " AJT d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220095,
@@ -117,7 +117,7 @@
         "cena": 350000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6156163,
@@ -129,7 +129,7 @@
         "cena": 560000.0,
         "agencija": "GRE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190742,
@@ -141,7 +141,7 @@
         "cena": 690000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219577,
@@ -153,7 +153,7 @@
         "cena": 199000.0,
         "agencija": "Mikljič-Hribar Company d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220230,
@@ -165,7 +165,7 @@
         "cena": 247000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209756,
@@ -189,7 +189,7 @@
         "cena": 195000.0,
         "agencija": "Moduling nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6170667,
@@ -201,7 +201,7 @@
         "cena": 270000.0,
         "agencija": "DUTB, d.d.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215029,
@@ -213,7 +213,7 @@
         "cena": 256030.0,
         "agencija": "Harmonija nepremičnine Ksenja Kokalj s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219502,
@@ -225,7 +225,7 @@
         "cena": 254000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210276,
@@ -249,7 +249,7 @@
         "cena": 225000.0,
         "agencija": "HDS d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220369,
@@ -261,7 +261,7 @@
         "cena": 118000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217085,
@@ -273,7 +273,7 @@
         "cena": 465000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6141566,
@@ -285,7 +285,7 @@
         "cena": 423858.52,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217086,
@@ -297,7 +297,7 @@
         "cena": 630000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218128,
@@ -309,7 +309,7 @@
         "cena": 193000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218757,
@@ -321,7 +321,7 @@
         "cena": 126000.0,
         "agencija": "Šardi&Co. nepremičnine, družba za posredovanje v prometu z nepremičninami, d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220232,
@@ -345,7 +345,7 @@
         "cena": 235000.0,
         "agencija": "Nepremičnine Land d.o.o.",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220335,
@@ -357,7 +357,7 @@
         "cena": 362930.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205467,
@@ -381,7 +381,7 @@
         "cena": 490000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199643,
@@ -393,7 +393,7 @@
         "cena": 855000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217924,
@@ -417,7 +417,7 @@
         "cena": 102000.0,
         "agencija": "Tohom d.o.o.",
         "enota": "BEŽIGRAJSKI DVOR",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 5949151,
@@ -441,7 +441,7 @@
         "cena": 128000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "BRDO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189829,
@@ -453,7 +453,7 @@
         "cena": 275000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "BRDO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190516,
@@ -501,7 +501,7 @@
         "cena": 279000.0,
         "agencija": "Rebernik nepremičnine, Samo Rebernik s.p.",
         "enota": "BRDO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209894,
@@ -549,7 +549,7 @@
         "cena": 242900.0,
         "agencija": "Medvešek Pušnik Nepremičnine d.o.o.",
         "enota": "BROD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211922,
@@ -573,7 +573,7 @@
         "cena": 494000.0,
         "agencija": "Zasebna ponudba",
         "enota": "BROD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219109,
@@ -633,7 +633,7 @@
         "cena": 158000.0,
         "agencija": "Zasebna ponudba",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217314,
@@ -645,7 +645,7 @@
         "cena": 158000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6203198,
@@ -657,7 +657,7 @@
         "cena": 157900.0,
         "agencija": "Sonce skupina d.o.o., PE Ljubljana",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218646,
@@ -669,7 +669,7 @@
         "cena": 138000.0,
         "agencija": "Realia d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219059,
@@ -681,7 +681,7 @@
         "cena": 168000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205070,
@@ -693,7 +693,7 @@
         "cena": 168000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221086,
@@ -741,7 +741,7 @@
         "cena": 225000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211686,
@@ -765,7 +765,7 @@
         "cena": 199000.0,
         "agencija": "Nepremičnine Plus d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205071,
@@ -777,7 +777,7 @@
         "cena": 199000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217319,
@@ -837,7 +837,7 @@
         "cena": 206000.0,
         "agencija": "Livimex d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220252,
@@ -897,7 +897,7 @@
         "cena": 154900.0,
         "agencija": "Zasebna ponudba",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216410,
@@ -909,7 +909,7 @@
         "cena": 136000.0,
         "agencija": "Realia d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211567,
@@ -921,7 +921,7 @@
         "cena": 136000.0,
         "agencija": "Realia d.o.o.",
         "enota": "BS 3",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197901,
@@ -957,7 +957,7 @@
         "cena": 98000.0,
         "agencija": "Rebernik nepremičnine, Samo Rebernik s.p.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213227,
@@ -1065,7 +1065,7 @@
         "cena": 167000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188368,
@@ -1077,7 +1077,7 @@
         "cena": 215000.0,
         "agencija": "Meterra d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216432,
@@ -1101,7 +1101,7 @@
         "cena": 158000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6141942,
@@ -1137,7 +1137,7 @@
         "cena": 129000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220755,
@@ -1173,7 +1173,7 @@
         "cena": 269000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220057,
@@ -1185,7 +1185,7 @@
         "cena": 349000.0,
         "agencija": "Nepremičnine Plus d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213539,
@@ -1197,7 +1197,7 @@
         "cena": 249000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208103,
@@ -1209,7 +1209,7 @@
         "cena": 249000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207856,
@@ -1221,7 +1221,7 @@
         "cena": 249000.0,
         "agencija": "Mernet d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195104,
@@ -1233,7 +1233,7 @@
         "cena": 269000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6170791,
@@ -1245,7 +1245,7 @@
         "cena": 269000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205700,
@@ -1257,7 +1257,7 @@
         "cena": 259000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066651,
@@ -1269,7 +1269,7 @@
         "cena": 316000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220990,
@@ -1281,7 +1281,7 @@
         "cena": 400000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217908,
@@ -1293,7 +1293,7 @@
         "cena": 220000.0,
         "agencija": "Sans nepremičnine, d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220693,
@@ -1305,7 +1305,7 @@
         "cena": 159000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219290,
@@ -1329,7 +1329,7 @@
         "cena": 220000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219345,
@@ -1365,7 +1365,7 @@
         "cena": 98000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198522,
@@ -1425,7 +1425,7 @@
         "cena": 316000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6185598,
@@ -1437,7 +1437,7 @@
         "cena": 360000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6129518,
@@ -1449,7 +1449,7 @@
         "cena": 360000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6080985,
@@ -1461,7 +1461,7 @@
         "cena": 360000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211600,
@@ -1497,7 +1497,7 @@
         "cena": 159000.0,
         "agencija": "Makra as Marko Krajner s.p.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218895,
@@ -1521,7 +1521,7 @@
         "cena": 190000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219375,
@@ -1533,7 +1533,7 @@
         "cena": 120000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204653,
@@ -1557,7 +1557,7 @@
         "cena": 159000.0,
         "agencija": "Nepremičninsko posredništvo Edvard Vrtačnik s.p.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210155,
@@ -1569,7 +1569,7 @@
         "cena": 158000.0,
         "agencija": "Nepremičninsko posredništvo Edvard Vrtačnik s.p.",
         "enota": "ČRNUČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6182292,
@@ -1581,7 +1581,7 @@
         "cena": 135000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ČRNUŠKA GMAJNA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209936,
@@ -1593,7 +1593,7 @@
         "cena": 123000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213384,
@@ -1605,7 +1605,7 @@
         "cena": 125000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212349,
@@ -1617,7 +1617,7 @@
         "cena": 118000.0,
         "agencija": "Media nepremičnine d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208222,
@@ -1629,7 +1629,7 @@
         "cena": 124000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218739,
@@ -1641,7 +1641,7 @@
         "cena": 149000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6186151,
@@ -1653,7 +1653,7 @@
         "cena": 144000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6181647,
@@ -1677,7 +1677,7 @@
         "cena": 190000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188707,
@@ -1689,7 +1689,7 @@
         "cena": 288900.0,
         "agencija": "Sonce skupina d.o.o., PE Ljubljana",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198118,
@@ -1701,7 +1701,7 @@
         "cena": 233000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219766,
@@ -1713,7 +1713,7 @@
         "cena": 233000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218185,
@@ -1725,7 +1725,7 @@
         "cena": 250000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6152702,
@@ -1737,7 +1737,7 @@
         "cena": 298500.0,
         "agencija": "SINEP družba za investiranje d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201280,
@@ -1749,7 +1749,7 @@
         "cena": 160000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6139361,
@@ -1761,7 +1761,7 @@
         "cena": 260000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221074,
@@ -1785,7 +1785,7 @@
         "cena": 259000.0,
         "agencija": "Larimar nepremičnine d.o.o.",
         "enota": "DOLGI MOST",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213251,
@@ -1809,7 +1809,7 @@
         "cena": 149500.0,
         "agencija": "Damjan Mohorko s.p.",
         "enota": "DRAVELJSKA GMAJNA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218927,
@@ -1845,7 +1845,7 @@
         "cena": 140000.0,
         "agencija": "DVOREC POSREDNIŠKA HIŠA d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6203899,
@@ -1857,7 +1857,7 @@
         "cena": 139900.0,
         "agencija": "Sonce skupina d.o.o., PE Ljubljana",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6149314,
@@ -1881,7 +1881,7 @@
         "cena": 154000.0,
         "agencija": "DVOREC POSREDNIŠKA HIŠA d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216418,
@@ -1941,7 +1941,7 @@
         "cena": 152000.0,
         "agencija": "Afirmacija d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6163392,
@@ -1953,7 +1953,7 @@
         "cena": 159000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219364,
@@ -2025,7 +2025,7 @@
         "cena": 256030.71,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221564,
@@ -2061,7 +2061,7 @@
         "cena": 188000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207793,
@@ -2097,7 +2097,7 @@
         "cena": 318684.42,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6184009,
@@ -2109,7 +2109,7 @@
         "cena": 356063.34,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6184015,
@@ -2121,7 +2121,7 @@
         "cena": 416995.71,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6122149,
@@ -2133,7 +2133,7 @@
         "cena": 416995.71,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214258,
@@ -2157,7 +2157,7 @@
         "cena": 405494.05,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6184016,
@@ -2169,7 +2169,7 @@
         "cena": 461345.4,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6122148,
@@ -2181,7 +2181,7 @@
         "cena": 461345.4,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221218,
@@ -2193,7 +2193,7 @@
         "cena": 298000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6122163,
@@ -2205,7 +2205,7 @@
         "cena": 471969.09,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204721,
@@ -2229,7 +2229,7 @@
         "cena": 150000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214264,
@@ -2277,7 +2277,7 @@
         "cena": 169000.0,
         "agencija": "ENOTA real estate, nepremičninsko posredovanje, Eva Golc, s.p",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6165167,
@@ -2313,7 +2313,7 @@
         "cena": 56000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220740,
@@ -2337,7 +2337,7 @@
         "cena": 51000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210706,
@@ -2385,7 +2385,7 @@
         "cena": 135000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6177415,
@@ -2397,7 +2397,7 @@
         "cena": 145000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6182036,
@@ -2421,7 +2421,7 @@
         "cena": 94000.0,
         "agencija": "ALFA-INT nepremičnine d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209414,
@@ -2433,7 +2433,7 @@
         "cena": 120000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183020,
@@ -2445,7 +2445,7 @@
         "cena": 471969.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183025,
@@ -2457,7 +2457,7 @@
         "cena": 356063.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183031,
@@ -2469,7 +2469,7 @@
         "cena": 405494.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6182385,
@@ -2481,7 +2481,7 @@
         "cena": 145000.0,
         "agencija": "Zasebna ponudba",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6166437,
@@ -2505,7 +2505,7 @@
         "cena": 91000.0,
         "agencija": "Makra as Marko Krajner s.p.",
         "enota": "DRAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206131,
@@ -2529,7 +2529,7 @@
         "cena": 86000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220496,
@@ -2553,7 +2553,7 @@
         "cena": 145000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220191,
@@ -2577,7 +2577,7 @@
         "cena": 175000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215175,
@@ -2613,7 +2613,7 @@
         "cena": 185000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221106,
@@ -2625,7 +2625,7 @@
         "cena": 257000.0,
         "agencija": "Atrium nepremičnine d.o.o.",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219885,
@@ -2637,7 +2637,7 @@
         "cena": 257000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6170926,
@@ -2661,7 +2661,7 @@
         "cena": 150000.0,
         "agencija": "Zasebna ponudba",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217665,
@@ -2673,7 +2673,7 @@
         "cena": 188000.0,
         "agencija": "Nepremičninska agencija \"TLORIS\" Miro Torić s.p., Poslovna enota",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221144,
@@ -2697,7 +2697,7 @@
         "cena": 185000.0,
         "agencija": "Zasebna ponudba",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217193,
@@ -2709,7 +2709,7 @@
         "cena": 257000.0,
         "agencija": "Zasebna ponudba",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198341,
@@ -2721,7 +2721,7 @@
         "cena": 83000.0,
         "agencija": "Rodman MGM d.o.o., PE nepremičnine",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217961,
@@ -2733,7 +2733,7 @@
         "cena": 86000.0,
         "agencija": "Zasebna ponudba",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221100,
@@ -2745,7 +2745,7 @@
         "cena": 186000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215047,
@@ -2757,7 +2757,7 @@
         "cena": 120000.0,
         "agencija": "Zasebna ponudba",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218023,
@@ -2769,7 +2769,7 @@
         "cena": 145000.0,
         "agencija": "Zasebna ponudba",
         "enota": "FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219660,
@@ -2793,7 +2793,7 @@
         "cena": 199800.0,
         "agencija": "DOM REAL d.o.o.",
         "enota": "GALJEVICA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209411,
@@ -2817,7 +2817,7 @@
         "cena": 149900.0,
         "agencija": "GRATEK, Dragica Bauman s.p.",
         "enota": "GALJEVICA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6167778,
@@ -2841,7 +2841,7 @@
         "cena": 170000.0,
         "agencija": "Zasebna ponudba",
         "enota": "JARŠE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6124902,
@@ -2865,7 +2865,7 @@
         "cena": 432000.0,
         "agencija": "NOVDOM Nepremičnine, Aleš Novak s.p.",
         "enota": "JARŠE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220542,
@@ -2961,7 +2961,7 @@
         "cena": 319000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "KLEČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218934,
@@ -2973,7 +2973,7 @@
         "cena": 110000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "KODELJEVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6177307,
@@ -3009,7 +3009,7 @@
         "cena": 105000.0,
         "agencija": "FIRMA nepremičnine Martinović & Co. k.d.",
         "enota": "KODELJEVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215224,
@@ -3129,7 +3129,7 @@
         "cena": 620000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "KOLEZIJA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212790,
@@ -3141,7 +3141,7 @@
         "cena": 590000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "KOLEZIJA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220372,
@@ -3177,7 +3177,7 @@
         "cena": 120000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6193405,
@@ -3189,7 +3189,7 @@
         "cena": 204700.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6194515,
@@ -3201,7 +3201,7 @@
         "cena": 362500.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196785,
@@ -3225,7 +3225,7 @@
         "cena": 298000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201490,
@@ -3273,7 +3273,7 @@
         "cena": 270000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221431,
@@ -3285,7 +3285,7 @@
         "cena": 259000.0,
         "agencija": "Hiša nepremičnine 1 d.o.o.",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219410,
@@ -3297,7 +3297,7 @@
         "cena": 159000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204889,
@@ -3321,7 +3321,7 @@
         "cena": 185000.0,
         "agencija": "Zasebna ponudba",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221570,
@@ -3345,7 +3345,7 @@
         "cena": 330000.0,
         "agencija": "Zasebna ponudba",
         "enota": "KOSEZE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217777,
@@ -3393,7 +3393,7 @@
         "cena": 79000.0,
         "agencija": "PBO nepremičnine, Most inženiring d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214286,
@@ -3429,7 +3429,7 @@
         "cena": 109000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220139,
@@ -3489,7 +3489,7 @@
         "cena": 91500.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209737,
@@ -3501,7 +3501,7 @@
         "cena": 159000.0,
         "agencija": "Lucia tim d.o.o., PE Nepremičnine",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201371,
@@ -3513,7 +3513,7 @@
         "cena": 75000.0,
         "agencija": "ALTERA, d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221154,
@@ -3525,7 +3525,7 @@
         "cena": 123000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213454,
@@ -3609,7 +3609,7 @@
         "cena": 130000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198651,
@@ -3657,7 +3657,7 @@
         "cena": 145000.0,
         "agencija": "Nepremičnine KLEMENČIČ, Borut Klemenčič Hočevar s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212123,
@@ -3669,7 +3669,7 @@
         "cena": 111000.0,
         "agencija": "DVOREC POSREDNIŠKA HIŠA d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216654,
@@ -3741,7 +3741,7 @@
         "cena": 160000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221139,
@@ -3753,7 +3753,7 @@
         "cena": 129000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6162114,
@@ -3801,7 +3801,7 @@
         "cena": 129000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216567,
@@ -3813,7 +3813,7 @@
         "cena": 119000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218198,
@@ -3825,7 +3825,7 @@
         "cena": 119000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6138280,
@@ -3861,7 +3861,7 @@
         "cena": 139000.0,
         "agencija": "FIN nepremičninsko posredovanje Robert Fekonja s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221388,
@@ -3909,7 +3909,7 @@
         "cena": 140000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207057,
@@ -3921,7 +3921,7 @@
         "cena": 239900.0,
         "agencija": "Media nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219212,
@@ -3945,7 +3945,7 @@
         "cena": 155000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208576,
@@ -3993,7 +3993,7 @@
         "cena": 158000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212582,
@@ -4017,7 +4017,7 @@
         "cena": 170000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221368,
@@ -4065,7 +4065,7 @@
         "cena": 150000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221264,
@@ -4089,7 +4089,7 @@
         "cena": 158000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6192639,
@@ -4113,7 +4113,7 @@
         "cena": 220000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6159160,
@@ -4149,7 +4149,7 @@
         "cena": 169000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218064,
@@ -4161,7 +4161,7 @@
         "cena": 224900.0,
         "agencija": "Synergos nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221459,
@@ -4209,7 +4209,7 @@
         "cena": 160000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218306,
@@ -4233,7 +4233,7 @@
         "cena": 246500.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216510,
@@ -4245,7 +4245,7 @@
         "cena": 179000.0,
         "agencija": "Nepremičnina posredovanje d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204298,
@@ -4269,7 +4269,7 @@
         "cena": 230566.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6191117,
@@ -4281,7 +4281,7 @@
         "cena": 160000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213346,
@@ -4305,7 +4305,7 @@
         "cena": 230000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6185693,
@@ -4329,7 +4329,7 @@
         "cena": 321800.0,
         "agencija": "Media nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183067,
@@ -4341,7 +4341,7 @@
         "cena": 225000.0,
         "agencija": "Atrium nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217764,
@@ -4425,7 +4425,7 @@
         "cena": 190000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207060,
@@ -4437,7 +4437,7 @@
         "cena": 336500.0,
         "agencija": "Media nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205983,
@@ -4449,7 +4449,7 @@
         "cena": 349500.0,
         "agencija": "Media nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213202,
@@ -4461,7 +4461,7 @@
         "cena": 320000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220633,
@@ -4473,7 +4473,7 @@
         "cena": 349108.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220242,
@@ -4497,7 +4497,7 @@
         "cena": 245000.0,
         "agencija": "Domodom d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6181646,
@@ -4521,7 +4521,7 @@
         "cena": 233500.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6173183,
@@ -4533,7 +4533,7 @@
         "cena": 381958.82,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066891,
@@ -4545,7 +4545,7 @@
         "cena": 381958.82,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216564,
@@ -4557,7 +4557,7 @@
         "cena": 189500.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218195,
@@ -4569,7 +4569,7 @@
         "cena": 189500.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196751,
@@ -4581,7 +4581,7 @@
         "cena": 319000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219089,
@@ -4593,7 +4593,7 @@
         "cena": 285000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220630,
@@ -4605,7 +4605,7 @@
         "cena": 373005.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6179601,
@@ -4629,7 +4629,7 @@
         "cena": 200000.0,
         "agencija": "Nepremičnine M8, Lea Kavalič s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211872,
@@ -4653,7 +4653,7 @@
         "cena": 405855.38,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066899,
@@ -4665,7 +4665,7 @@
         "cena": 423497.08,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196985,
@@ -4677,7 +4677,7 @@
         "cena": 249000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220622,
@@ -4689,7 +4689,7 @@
         "cena": 448390.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6064055,
@@ -4701,7 +4701,7 @@
         "cena": 349000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6170190,
@@ -4773,7 +4773,7 @@
         "cena": 250000.0,
         "agencija": "FIRMA nepremičnine Martinović & Co. k.d.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209889,
@@ -4833,7 +4833,7 @@
         "cena": 466504.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220632,
@@ -4845,7 +4845,7 @@
         "cena": 467607.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208497,
@@ -4857,7 +4857,7 @@
         "cena": 249000.0,
         "agencija": "Proneo d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213238,
@@ -4893,7 +4893,7 @@
         "cena": 385000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6151504,
@@ -4905,7 +4905,7 @@
         "cena": 550000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6182267,
@@ -4929,7 +4929,7 @@
         "cena": 499354.26,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066888,
@@ -4941,7 +4941,7 @@
         "cena": 499538.74,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206063,
@@ -4953,7 +4953,7 @@
         "cena": 500457.09,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220683,
@@ -4977,7 +4977,7 @@
         "cena": 481240.54,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214712,
@@ -4989,7 +4989,7 @@
         "cena": 450000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220628,
@@ -5001,7 +5001,7 @@
         "cena": 521698.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214711,
@@ -5013,7 +5013,7 @@
         "cena": 261255.78,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219545,
@@ -5025,7 +5025,7 @@
         "cena": 499000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206039,
@@ -5037,7 +5037,7 @@
         "cena": 554548.08,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066898,
@@ -5049,7 +5049,7 @@
         "cena": 562141.67,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6191542,
@@ -5061,7 +5061,7 @@
         "cena": 437000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6032702,
@@ -5085,7 +5085,7 @@
         "cena": 399000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183453,
@@ -5097,7 +5097,7 @@
         "cena": 450000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6182257,
@@ -5145,7 +5145,7 @@
         "cena": 297000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216790,
@@ -5157,7 +5157,7 @@
         "cena": 295000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220627,
@@ -5169,7 +5169,7 @@
         "cena": 644633.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220619,
@@ -5181,7 +5181,7 @@
         "cena": 638726.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207769,
@@ -5205,7 +5205,7 @@
         "cena": 733171.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6161977,
@@ -5229,7 +5229,7 @@
         "cena": 677483.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066904,
@@ -5241,7 +5241,7 @@
         "cena": 677483.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066903,
@@ -5253,7 +5253,7 @@
         "cena": 678831.79,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6066911,
@@ -5265,7 +5265,7 @@
         "cena": 766021.57,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6194585,
@@ -5277,7 +5277,7 @@
         "cena": 766021.57,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190375,
@@ -5289,7 +5289,7 @@
         "cena": 328000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6186132,
@@ -5301,7 +5301,7 @@
         "cena": 680000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206074,
@@ -5313,7 +5313,7 @@
         "cena": 839828.74,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220917,
@@ -5337,7 +5337,7 @@
         "cena": 319000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221208,
@@ -5385,7 +5385,7 @@
         "cena": 349108.82,
         "agencija": "Eko srebrna hiša d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6172453,
@@ -5397,7 +5397,7 @@
         "cena": 466504.26,
         "agencija": "Eko srebrna hiša d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 5887642,
@@ -5409,7 +5409,7 @@
         "cena": 448390.54,
         "agencija": "Eko srebrna hiša d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200795,
@@ -5481,7 +5481,7 @@
         "cena": 319000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195001,
@@ -5493,7 +5493,7 @@
         "cena": 470000.0,
         "agencija": "Moja vila, Tina Dolinar s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204322,
@@ -5529,7 +5529,7 @@
         "cena": 319000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216650,
@@ -5577,7 +5577,7 @@
         "cena": 186000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6179796,
@@ -5625,7 +5625,7 @@
         "cena": 180000.0,
         "agencija": "Gabra d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216972,
@@ -5649,7 +5649,7 @@
         "cena": 160000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210619,
@@ -5661,7 +5661,7 @@
         "cena": 250000.0,
         "agencija": "FIRMA nepremičnine Martinović & Co. k.d.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206458,
@@ -5685,7 +5685,7 @@
         "cena": 195000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190940,
@@ -5709,7 +5709,7 @@
         "cena": 96500.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197690,
@@ -5733,7 +5733,7 @@
         "cena": 105000.0,
         "agencija": "24-ur.eu, Dean Daraboš s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204641,
@@ -5757,7 +5757,7 @@
         "cena": 91500.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206107,
@@ -5769,7 +5769,7 @@
         "cena": 190000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213848,
@@ -5781,7 +5781,7 @@
         "cena": 129000.0,
         "agencija": "Salomon nepremičnine, Anže Nahtigal, s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207816,
@@ -5793,7 +5793,7 @@
         "cena": 158000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6203588,
@@ -5829,7 +5829,7 @@
         "cena": 135000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220349,
@@ -5925,7 +5925,7 @@
         "cena": 220000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6173223,
@@ -5937,7 +5937,7 @@
         "cena": 273000.0,
         "agencija": "Gradex nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198523,
@@ -5961,7 +5961,7 @@
         "cena": 105000.0,
         "agencija": "Livimex d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6172998,
@@ -5997,7 +5997,7 @@
         "cena": 329500.0,
         "agencija": "Ceres nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220658,
@@ -6009,7 +6009,7 @@
         "cena": 115600.0,
         "agencija": "COOP nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220603,
@@ -6033,7 +6033,7 @@
         "cena": 231000.0,
         "agencija": "CIMER, MAKSIMILJAN REMIC s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214598,
@@ -6057,7 +6057,7 @@
         "cena": 230000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221455,
@@ -6069,7 +6069,7 @@
         "cena": 330000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199074,
@@ -6093,7 +6093,7 @@
         "cena": 33000.0,
         "agencija": "EvroN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216094,
@@ -6105,7 +6105,7 @@
         "cena": 160000.0,
         "agencija": "Property d.o.o., PE Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221189,
@@ -6117,7 +6117,7 @@
         "cena": 220000.0,
         "agencija": "Nepremičnine Plus d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6129322,
@@ -6129,7 +6129,7 @@
         "cena": 420000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209985,
@@ -6141,7 +6141,7 @@
         "cena": 135000.0,
         "agencija": "Blok 5 d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215794,
@@ -6153,7 +6153,7 @@
         "cena": 180000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219100,
@@ -6165,7 +6165,7 @@
         "cena": 113000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205928,
@@ -6177,7 +6177,7 @@
         "cena": 137000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221432,
@@ -6225,7 +6225,7 @@
         "cena": 128000.0,
         "agencija": "Šardi&Co. nepremičnine, družba za posredovanje v prometu z nepremičninami, d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6193997,
@@ -6237,7 +6237,7 @@
         "cena": 185000.0,
         "agencija": "Real Go d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6178498,
@@ -6273,7 +6273,7 @@
         "cena": 220000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219461,
@@ -6285,7 +6285,7 @@
         "cena": 148000.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218355,
@@ -6309,7 +6309,7 @@
         "cena": 224900.0,
         "agencija": "Agenti Celje, AŽ&MB Nerad d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211214,
@@ -6369,7 +6369,7 @@
         "cena": 437000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220808,
@@ -6405,7 +6405,7 @@
         "cena": 230000.0,
         "agencija": "Studio 68 d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208202,
@@ -6429,7 +6429,7 @@
         "cena": 200000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220019,
@@ -6441,7 +6441,7 @@
         "cena": 345000.0,
         "agencija": "ENOTA real estate, nepremičninsko posredovanje, Eva Golc, s.p",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198139,
@@ -6465,7 +6465,7 @@
         "cena": 166000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215166,
@@ -6501,7 +6501,7 @@
         "cena": 225000.0,
         "agencija": "Maridom nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220507,
@@ -6525,7 +6525,7 @@
         "cena": 269900.0,
         "agencija": "D5 invest d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216101,
@@ -6633,7 +6633,7 @@
         "cena": 250000.0,
         "agencija": "Abstract nepremičnine, Igor Kerin s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195225,
@@ -6705,7 +6705,7 @@
         "cena": 154000.0,
         "agencija": "KU-MI nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216840,
@@ -6729,7 +6729,7 @@
         "cena": 550000.0,
         "agencija": "INBA, nepremičninska družba, d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217255,
@@ -6753,7 +6753,7 @@
         "cena": 173000.0,
         "agencija": "KU-MI nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220229,
@@ -6789,7 +6789,7 @@
         "cena": 179000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6187565,
@@ -6801,7 +6801,7 @@
         "cena": 199000.0,
         "agencija": "ALEA nepremičninska družba d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216019,
@@ -6885,7 +6885,7 @@
         "cena": 139000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213491,
@@ -6933,7 +6933,7 @@
         "cena": 129600.0,
         "agencija": "Ceres nepremičnine d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6193432,
@@ -6945,7 +6945,7 @@
         "cena": 180000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215854,
@@ -6969,7 +6969,7 @@
         "cena": 155000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213233,
@@ -7017,7 +7017,7 @@
         "cena": 373005.38,
         "agencija": "Eko srebrna hiša d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217376,
@@ -7053,7 +7053,7 @@
         "cena": 480000.0,
         "agencija": "Realia d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218686,
@@ -7065,7 +7065,7 @@
         "cena": 320000.0,
         "agencija": "Realia d.o.o.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206940,
@@ -7089,7 +7089,7 @@
         "cena": 179000.0,
         "agencija": "Garant - Gabrijela Smuk s.p.",
         "enota": "LJ. BEŽIGRAD",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219720,
@@ -7101,7 +7101,7 @@
         "cena": 250000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219492,
@@ -7113,7 +7113,7 @@
         "cena": 134000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215503,
@@ -7137,7 +7137,7 @@
         "cena": 149000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219759,
@@ -7161,7 +7161,7 @@
         "cena": 180000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213510,
@@ -7293,7 +7293,7 @@
         "cena": 162000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190128,
@@ -7341,7 +7341,7 @@
         "cena": 165000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214263,
@@ -7389,7 +7389,7 @@
         "cena": 179000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197507,
@@ -7401,7 +7401,7 @@
         "cena": 259000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6176770,
@@ -7413,7 +7413,7 @@
         "cena": 157000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209486,
@@ -7449,7 +7449,7 @@
         "cena": 275000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6171663,
@@ -7485,7 +7485,7 @@
         "cena": 239000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220756,
@@ -7509,7 +7509,7 @@
         "cena": 250000.0,
         "agencija": "Skupina novogradnje, nepremičninsko posredovanje, Slavko Švigelj s.p., PE Vrhnika",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208086,
@@ -7521,7 +7521,7 @@
         "cena": 219000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195491,
@@ -7533,7 +7533,7 @@
         "cena": 309000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214361,
@@ -7557,7 +7557,7 @@
         "cena": 280000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6150813,
@@ -7569,7 +7569,7 @@
         "cena": 245000.0,
         "agencija": "Ponudba d.o.o., nepremičninska družba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213167,
@@ -7593,7 +7593,7 @@
         "cena": 298000.0,
         "agencija": "Nepremičninsko posredništvo Edvard Vrtačnik s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219957,
@@ -7605,7 +7605,7 @@
         "cena": 298000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221454,
@@ -7629,7 +7629,7 @@
         "cena": 248000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208794,
@@ -7689,7 +7689,7 @@
         "cena": 264000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6177206,
@@ -7725,7 +7725,7 @@
         "cena": 264000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217164,
@@ -7773,7 +7773,7 @@
         "cena": 290000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213247,
@@ -7785,7 +7785,7 @@
         "cena": 495000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6155334,
@@ -7821,7 +7821,7 @@
         "cena": 260000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189875,
@@ -7833,7 +7833,7 @@
         "cena": 280000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6186002,
@@ -7857,7 +7857,7 @@
         "cena": 260000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208109,
@@ -7905,7 +7905,7 @@
         "cena": 356000.0,
         "agencija": "Sonce skupina d.o.o., PE Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6202641,
@@ -7917,7 +7917,7 @@
         "cena": 248000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212899,
@@ -7941,7 +7941,7 @@
         "cena": 489000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211290,
@@ -7953,7 +7953,7 @@
         "cena": 350000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6117155,
@@ -7965,7 +7965,7 @@
         "cena": 550000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221502,
@@ -8001,7 +8001,7 @@
         "cena": 330000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6120691,
@@ -8037,7 +8037,7 @@
         "cena": 310000.0,
         "agencija": "PERFEKT B d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6065633,
@@ -8061,7 +8061,7 @@
         "cena": 247000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221256,
@@ -8085,7 +8085,7 @@
         "cena": 379000.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219625,
@@ -8133,7 +8133,7 @@
         "cena": 410000.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6161254,
@@ -8145,7 +8145,7 @@
         "cena": 485000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219121,
@@ -8193,7 +8193,7 @@
         "cena": 295000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216679,
@@ -8205,7 +8205,7 @@
         "cena": 395000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6181529,
@@ -8217,7 +8217,7 @@
         "cena": 700000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207999,
@@ -8265,7 +8265,7 @@
         "cena": 391000.0,
         "agencija": "Moduling nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199914,
@@ -8301,7 +8301,7 @@
         "cena": 499000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 5812324,
@@ -8337,7 +8337,7 @@
         "cena": 400000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208083,
@@ -8385,7 +8385,7 @@
         "cena": 581280.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219439,
@@ -8409,7 +8409,7 @@
         "cena": 482000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220364,
@@ -8445,7 +8445,7 @@
         "cena": 399000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6159654,
@@ -8553,7 +8553,7 @@
         "cena": 550000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189958,
@@ -8577,7 +8577,7 @@
         "cena": 519000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6194560,
@@ -8601,7 +8601,7 @@
         "cena": 510000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195477,
@@ -8625,7 +8625,7 @@
         "cena": 800000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219639,
@@ -8649,7 +8649,7 @@
         "cena": 720952.5,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190632,
@@ -8661,7 +8661,7 @@
         "cena": 682608.75,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190634,
@@ -8673,7 +8673,7 @@
         "cena": 725385.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199909,
@@ -8709,7 +8709,7 @@
         "cena": 713888.75,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218775,
@@ -8721,7 +8721,7 @@
         "cena": 482000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6173808,
@@ -8733,7 +8733,7 @@
         "cena": 550000.0,
         "agencija": "Agencija Galileja, Suzana Tomašić s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218783,
@@ -8745,7 +8745,7 @@
         "cena": 482000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213551,
@@ -8757,7 +8757,7 @@
         "cena": 550000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221096,
@@ -8817,7 +8817,7 @@
         "cena": 862972.5,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190630,
@@ -8829,7 +8829,7 @@
         "cena": 812786.25,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195478,
@@ -8853,7 +8853,7 @@
         "cena": 850000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219114,
@@ -8889,7 +8889,7 @@
         "cena": 430000.0,
         "agencija": "Arcimboldo d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219847,
@@ -8925,7 +8925,7 @@
         "cena": 530000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6159283,
@@ -8937,7 +8937,7 @@
         "cena": 890000.0,
         "agencija": "CIMER, MAKSIMILJAN REMIC s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6159616,
@@ -8949,7 +8949,7 @@
         "cena": 770000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213245,
@@ -8961,7 +8961,7 @@
         "cena": 770000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6161750,
@@ -8973,7 +8973,7 @@
         "cena": 770000.0,
         "agencija": "Agencija Vitraž d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213067,
@@ -8985,7 +8985,7 @@
         "cena": 890000.0,
         "agencija": "Inalbea d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6154457,
@@ -8997,7 +8997,7 @@
         "cena": 769820.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6128399,
@@ -9009,7 +9009,7 @@
         "cena": 770000.0,
         "agencija": "Agencija Elite d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221488,
@@ -9033,7 +9033,7 @@
         "cena": 855000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207731,
@@ -9045,7 +9045,7 @@
         "cena": 595000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6038143,
@@ -9057,7 +9057,7 @@
         "cena": 595000.0,
         "agencija": "Agencija Elite d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6075287,
@@ -9069,7 +9069,7 @@
         "cena": 550000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209605,
@@ -9093,7 +9093,7 @@
         "cena": 495000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217644,
@@ -9117,7 +9117,7 @@
         "cena": 769820.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213763,
@@ -9129,7 +9129,7 @@
         "cena": 569000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214065,
@@ -9141,7 +9141,7 @@
         "cena": 700000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218165,
@@ -9165,7 +9165,7 @@
         "cena": 229000.0,
         "agencija": "Sans nepremičnine, d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6164641,
@@ -9177,7 +9177,7 @@
         "cena": 210000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6039352,
@@ -9213,7 +9213,7 @@
         "cena": 248000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 5630677,
@@ -9225,7 +9225,7 @@
         "cena": 290000.0,
         "agencija": "Bamba nepremičnine, Tanko Franc s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216640,
@@ -9237,7 +9237,7 @@
         "cena": 649000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6165019,
@@ -9273,7 +9273,7 @@
         "cena": 2950.0,
         "agencija": "Maridom nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215054,
@@ -9429,7 +9429,7 @@
         "cena": 1200000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6159289,
@@ -9441,7 +9441,7 @@
         "cena": 495000.0,
         "agencija": "CIMER, MAKSIMILJAN REMIC s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188469,
@@ -9477,7 +9477,7 @@
         "cena": 268000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216982,
@@ -9597,7 +9597,7 @@
         "cena": 290000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199213,
@@ -9609,7 +9609,7 @@
         "cena": 290000.0,
         "agencija": "Medvešek Pušnik Nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199196,
@@ -9621,7 +9621,7 @@
         "cena": 290000.0,
         "agencija": "A-KOTA d.o.o., PE Ljubljana",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219704,
@@ -9633,7 +9633,7 @@
         "cena": 279000.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217879,
@@ -9645,7 +9645,7 @@
         "cena": 208000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212661,
@@ -9657,7 +9657,7 @@
         "cena": 650000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6076324,
@@ -9693,7 +9693,7 @@
         "cena": 198000.0,
         "agencija": "Vilar d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218842,
@@ -9717,7 +9717,7 @@
         "cena": 236000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189887,
@@ -9729,7 +9729,7 @@
         "cena": 265000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206661,
@@ -9741,7 +9741,7 @@
         "cena": 550000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208777,
@@ -9753,7 +9753,7 @@
         "cena": 160000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200073,
@@ -9765,7 +9765,7 @@
         "cena": 219000.0,
         "agencija": "Abstract nepremičnine, Igor Kerin s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216651,
@@ -9777,7 +9777,7 @@
         "cena": 482000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219794,
@@ -9801,7 +9801,7 @@
         "cena": 485000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208263,
@@ -9813,7 +9813,7 @@
         "cena": 249000.0,
         "agencija": "Lobodas, posredništvo in storitve d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219808,
@@ -9849,7 +9849,7 @@
         "cena": 288000.0,
         "agencija": "Komfort skupina d.o.o., nepremičnine",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201502,
@@ -9873,7 +9873,7 @@
         "cena": 360000.0,
         "agencija": "Realia d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6184327,
@@ -9957,7 +9957,7 @@
         "cena": 399000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183858,
@@ -9969,7 +9969,7 @@
         "cena": 631148.0,
         "agencija": "Mernet d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197965,
@@ -10017,7 +10017,7 @@
         "cena": 278000.0,
         "agencija": "Nep Nepremičnine, Dejan Kuzma s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188592,
@@ -10029,7 +10029,7 @@
         "cena": 268000.0,
         "agencija": "Nep Nepremičnine, Dejan Kuzma s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201887,
@@ -10041,7 +10041,7 @@
         "cena": 770000.0,
         "agencija": "Mernet d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189377,
@@ -10077,7 +10077,7 @@
         "cena": 396000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218314,
@@ -10089,7 +10089,7 @@
         "cena": 239000.0,
         "agencija": "ENOTA real estate, nepremičninsko posredovanje, Eva Golc, s.p",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201346,
@@ -10101,7 +10101,7 @@
         "cena": 283000.0,
         "agencija": "ENOTA real estate, nepremičninsko posredovanje, Eva Golc, s.p",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211951,
@@ -10113,7 +10113,7 @@
         "cena": 750000.0,
         "agencija": "ENOTA real estate, nepremičninsko posredovanje, Eva Golc, s.p",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200732,
@@ -10137,7 +10137,7 @@
         "cena": 329000.0,
         "agencija": "Euromark-a d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208509,
@@ -10173,7 +10173,7 @@
         "cena": 205000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219433,
@@ -10221,7 +10221,7 @@
         "cena": 309000.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211856,
@@ -10233,7 +10233,7 @@
         "cena": 520000.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208351,
@@ -10281,7 +10281,7 @@
         "cena": 247000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219076,
@@ -10305,7 +10305,7 @@
         "cena": 160000.0,
         "agencija": "Nep Nepremičnine, Dejan Kuzma s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6177917,
@@ -10317,7 +10317,7 @@
         "cena": 495000.0,
         "agencija": "Group A d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219850,
@@ -10329,7 +10329,7 @@
         "cena": 145000.0,
         "agencija": "Agencija Tomc, d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 2497323,
@@ -10377,7 +10377,7 @@
         "cena": 162000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6179828,
@@ -10413,7 +10413,7 @@
         "cena": 39500.0,
         "agencija": "24-ur.eu, Dean Daraboš s.p.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221173,
@@ -10461,7 +10461,7 @@
         "cena": 215400.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217174,
@@ -10473,7 +10473,7 @@
         "cena": 209000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208148,
@@ -10509,7 +10509,7 @@
         "cena": 269000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210275,
@@ -10569,7 +10569,7 @@
         "cena": 236000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6165431,
@@ -10629,7 +10629,7 @@
         "cena": 149000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221578,
@@ -10665,7 +10665,7 @@
         "cena": 282000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200655,
@@ -10701,7 +10701,7 @@
         "cena": 250000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209656,
@@ -10725,7 +10725,7 @@
         "cena": 239000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219342,
@@ -10737,7 +10737,7 @@
         "cena": 125000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208517,
@@ -10797,7 +10797,7 @@
         "cena": 630000.0,
         "agencija": "Agencija Barbara nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217126,
@@ -10809,7 +10809,7 @@
         "cena": 970000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216370,
@@ -10833,7 +10833,7 @@
         "cena": 890000.0,
         "agencija": "Kreativa MW d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220206,
@@ -10881,7 +10881,7 @@
         "cena": 490000.0,
         "agencija": "Elite nepremičnine d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 5535261,
@@ -10893,7 +10893,7 @@
         "cena": 450000.0,
         "agencija": "Nepremičnine Plus d.o.o.",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6134458,
@@ -10917,7 +10917,7 @@
         "cena": 890000.0,
         "agencija": "Nepremičninska agencija \"TLORIS\" Miro Torić s.p., Poslovna enota",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212776,
@@ -10953,7 +10953,7 @@
         "cena": 115000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. CENTER",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220602,
@@ -10965,7 +10965,7 @@
         "cena": 71500.0,
         "agencija": "Lucia tim d.o.o., PE Nepremičnine",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219871,
@@ -10977,7 +10977,7 @@
         "cena": 81500.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217309,
@@ -11013,7 +11013,7 @@
         "cena": 71000.0,
         "agencija": "Real Go d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215684,
@@ -11037,7 +11037,7 @@
         "cena": 98000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209581,
@@ -11097,7 +11097,7 @@
         "cena": 115000.0,
         "agencija": "Kolibri DV d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219466,
@@ -11181,7 +11181,7 @@
         "cena": 170000.0,
         "agencija": "Atrium nepremičnine d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198385,
@@ -11277,7 +11277,7 @@
         "cena": 85000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221475,
@@ -11289,7 +11289,7 @@
         "cena": 199000.0,
         "agencija": "Nepremičnina posredovanje d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219213,
@@ -11301,7 +11301,7 @@
         "cena": 172000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213309,
@@ -11313,7 +11313,7 @@
         "cena": 172000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220976,
@@ -11337,7 +11337,7 @@
         "cena": 131000.0,
         "agencija": "KU-MI nepremičnine d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214425,
@@ -11349,7 +11349,7 @@
         "cena": 172000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6192609,
@@ -11361,7 +11361,7 @@
         "cena": 155000.0,
         "agencija": "Nepremičnine Land d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218980,
@@ -11373,7 +11373,7 @@
         "cena": 320000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220552,
@@ -11385,7 +11385,7 @@
         "cena": 243000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6173263,
@@ -11397,7 +11397,7 @@
         "cena": 172500.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218592,
@@ -11457,7 +11457,7 @@
         "cena": 300000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212229,
@@ -11481,7 +11481,7 @@
         "cena": 155000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217684,
@@ -11493,7 +11493,7 @@
         "cena": 164000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6202156,
@@ -11541,7 +11541,7 @@
         "cena": 89000.0,
         "agencija": "Nepremičnine Lara d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200606,
@@ -11553,7 +11553,7 @@
         "cena": 345000.0,
         "agencija": "Kupola nepremičnina d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219124,
@@ -11577,7 +11577,7 @@
         "cena": 345000.0,
         "agencija": "Kupola nepremičnina d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197066,
@@ -11613,7 +11613,7 @@
         "cena": 175000.0,
         "agencija": "Kreativa MW d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6192481,
@@ -11625,7 +11625,7 @@
         "cena": 175000.0,
         "agencija": "Kreativa MW d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6179303,
@@ -11637,7 +11637,7 @@
         "cena": 189000.0,
         "agencija": "Agencija Galileja, Suzana Tomašić s.p.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197392,
@@ -11673,7 +11673,7 @@
         "cena": 129000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220660,
@@ -11685,7 +11685,7 @@
         "cena": 179900.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219011,
@@ -11709,7 +11709,7 @@
         "cena": 199000.0,
         "agencija": "ALEA nepremičninska družba d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219094,
@@ -11721,7 +11721,7 @@
         "cena": 120000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219839,
@@ -11757,7 +11757,7 @@
         "cena": 140000.0,
         "agencija": "Hočevar Nepremičnine -Janez Hočevar s.p.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220015,
@@ -11781,7 +11781,7 @@
         "cena": 160000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183806,
@@ -11829,7 +11829,7 @@
         "cena": 152000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219406,
@@ -11877,7 +11877,7 @@
         "cena": 714000.0,
         "agencija": "MA - nepremičninska družba, Marko Alič s.p.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218393,
@@ -11937,7 +11937,7 @@
         "cena": 85000.0,
         "agencija": "Kupola nepremičnina d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213186,
@@ -12009,7 +12009,7 @@
         "cena": 298000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6166621,
@@ -12021,7 +12021,7 @@
         "cena": 365000.0,
         "agencija": "Heta Asset Resolution d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6166586,
@@ -12033,7 +12033,7 @@
         "cena": 359000.0,
         "agencija": "Heta Asset Resolution d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198678,
@@ -12045,7 +12045,7 @@
         "cena": 146000.0,
         "agencija": "Realia d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196154,
@@ -12057,7 +12057,7 @@
         "cena": 146000.0,
         "agencija": "Realia d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219414,
@@ -12093,7 +12093,7 @@
         "cena": 288000.0,
         "agencija": "COOP nepremičnine d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205874,
@@ -12141,7 +12141,7 @@
         "cena": 129900.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214657,
@@ -12165,7 +12165,7 @@
         "cena": 175000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198666,
@@ -12189,7 +12189,7 @@
         "cena": 168000.0,
         "agencija": "Agencija Jakkra-n d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219341,
@@ -12201,7 +12201,7 @@
         "cena": 179000.0,
         "agencija": "FIN nepremičninsko posredovanje Robert Fekonja s.p.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210360,
@@ -12213,7 +12213,7 @@
         "cena": 240000.0,
         "agencija": "Svet RE d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216337,
@@ -12237,7 +12237,7 @@
         "cena": 76000.0,
         "agencija": "Feniks nepremičnine d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197974,
@@ -12273,7 +12273,7 @@
         "cena": 120000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218513,
@@ -12285,7 +12285,7 @@
         "cena": 185000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219057,
@@ -12297,7 +12297,7 @@
         "cena": 185000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219085,
@@ -12309,7 +12309,7 @@
         "cena": 310000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219090,
@@ -12321,7 +12321,7 @@
         "cena": 320000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219095,
@@ -12333,7 +12333,7 @@
         "cena": 300000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220429,
@@ -12345,7 +12345,7 @@
         "cena": 280000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219097,
@@ -12357,7 +12357,7 @@
         "cena": 320000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215598,
@@ -12429,7 +12429,7 @@
         "cena": 2000.0,
         "agencija": "Akustika group d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6180912,
@@ -12441,7 +12441,7 @@
         "cena": 2000.0,
         "agencija": "Akustika group d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218330,
@@ -12453,7 +12453,7 @@
         "cena": 147000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206221,
@@ -12465,7 +12465,7 @@
         "cena": 130000.0,
         "agencija": "Kreativa MW d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218401,
@@ -12477,7 +12477,7 @@
         "cena": 245000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215728,
@@ -12489,7 +12489,7 @@
         "cena": 345000.0,
         "agencija": "Kupola nepremičnina d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220198,
@@ -12501,7 +12501,7 @@
         "cena": 155000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. MOSTE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6157615,
@@ -12525,7 +12525,7 @@
         "cena": 82000.0,
         "agencija": "Proneo d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196882,
@@ -12549,7 +12549,7 @@
         "cena": 93000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221071,
@@ -12585,7 +12585,7 @@
         "cena": 87000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197425,
@@ -12597,7 +12597,7 @@
         "cena": 87000.0,
         "agencija": "ALTERA, d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218270,
@@ -12633,7 +12633,7 @@
         "cena": 119000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220264,
@@ -12657,7 +12657,7 @@
         "cena": 132000.0,
         "agencija": "Enepremičnine Ana Ocvirk s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212499,
@@ -12681,7 +12681,7 @@
         "cena": 110000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221220,
@@ -12693,7 +12693,7 @@
         "cena": 123000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204682,
@@ -12705,7 +12705,7 @@
         "cena": 135000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207368,
@@ -12717,7 +12717,7 @@
         "cena": 126000.0,
         "agencija": "Nepremičnine in cenitve Mitnica Uroš Jere s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183158,
@@ -12729,7 +12729,7 @@
         "cena": 173000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214622,
@@ -12741,7 +12741,7 @@
         "cena": 145000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212262,
@@ -12753,7 +12753,7 @@
         "cena": 158000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221224,
@@ -12765,7 +12765,7 @@
         "cena": 145000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6157161,
@@ -12789,7 +12789,7 @@
         "cena": 139500.0,
         "agencija": "Komfort skupina d.o.o., nepremičnine",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6179482,
@@ -12801,7 +12801,7 @@
         "cena": 135000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216743,
@@ -12813,7 +12813,7 @@
         "cena": 133000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6171307,
@@ -12825,7 +12825,7 @@
         "cena": 150000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6163485,
@@ -12837,7 +12837,7 @@
         "cena": 150000.0,
         "agencija": "ALEA nepremičninska družba d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218929,
@@ -12957,7 +12957,7 @@
         "cena": 175000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205076,
@@ -12969,7 +12969,7 @@
         "cena": 158000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217256,
@@ -12993,7 +12993,7 @@
         "cena": 181800.0,
         "agencija": "Dominos d.o.o., PE Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206354,
@@ -13005,7 +13005,7 @@
         "cena": 165000.0,
         "agencija": "ALTERA, d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209942,
@@ -13017,7 +13017,7 @@
         "cena": 165000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216818,
@@ -13053,7 +13053,7 @@
         "cena": 159500.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200723,
@@ -13149,7 +13149,7 @@
         "cena": 3700.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216737,
@@ -13161,7 +13161,7 @@
         "cena": 200000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214742,
@@ -13173,7 +13173,7 @@
         "cena": 165000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219533,
@@ -13233,7 +13233,7 @@
         "cena": 165000.0,
         "agencija": "Moneta Invest d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220417,
@@ -13305,7 +13305,7 @@
         "cena": 187000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220456,
@@ -13317,7 +13317,7 @@
         "cena": 209000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219513,
@@ -13329,7 +13329,7 @@
         "cena": 204000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220169,
@@ -13353,7 +13353,7 @@
         "cena": 190000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183827,
@@ -13509,7 +13509,7 @@
         "cena": 185000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219232,
@@ -13521,7 +13521,7 @@
         "cena": 209000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218868,
@@ -13545,7 +13545,7 @@
         "cena": 209000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Emona",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6191034,
@@ -13581,7 +13581,7 @@
         "cena": 188000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220293,
@@ -13593,7 +13593,7 @@
         "cena": 200000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197525,
@@ -13617,7 +13617,7 @@
         "cena": 200000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190701,
@@ -13665,7 +13665,7 @@
         "cena": 195000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219925,
@@ -13701,7 +13701,7 @@
         "cena": 310000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221449,
@@ -13725,7 +13725,7 @@
         "cena": 230000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204566,
@@ -13773,7 +13773,7 @@
         "cena": 298000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209262,
@@ -13797,7 +13797,7 @@
         "cena": 268000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204568,
@@ -13857,7 +13857,7 @@
         "cena": 400000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207983,
@@ -13869,7 +13869,7 @@
         "cena": 498000.0,
         "agencija": "Goran Barišić s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210726,
@@ -13881,7 +13881,7 @@
         "cena": 498000.0,
         "agencija": "Goran Barišić s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218221,
@@ -13893,7 +13893,7 @@
         "cena": 563200.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204316,
@@ -13905,7 +13905,7 @@
         "cena": 250000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188621,
@@ -13917,7 +13917,7 @@
         "cena": 380000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214206,
@@ -13941,7 +13941,7 @@
         "cena": 119800.0,
         "agencija": "IPPAGRA d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219786,
@@ -13977,7 +13977,7 @@
         "cena": 165000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210611,
@@ -13989,7 +13989,7 @@
         "cena": 65000.0,
         "agencija": "FIRMA nepremičnine Martinović & Co. k.d.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216616,
@@ -14001,7 +14001,7 @@
         "cena": 119000.0,
         "agencija": "KU-MI nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219832,
@@ -14013,7 +14013,7 @@
         "cena": 227000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6187063,
@@ -14037,7 +14037,7 @@
         "cena": 189900.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219900,
@@ -14061,7 +14061,7 @@
         "cena": 190000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199630,
@@ -14073,7 +14073,7 @@
         "cena": 320000.0,
         "agencija": "Vizija Lina Ina Poglajen s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211315,
@@ -14085,7 +14085,7 @@
         "cena": 189000.0,
         "agencija": "Nepremičnine M8, Lea Kavalič s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210133,
@@ -14121,7 +14121,7 @@
         "cena": 58000.0,
         "agencija": "24-ur.eu, Dean Daraboš s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214518,
@@ -14169,7 +14169,7 @@
         "cena": 59000.0,
         "agencija": "Visa d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189174,
@@ -14193,7 +14193,7 @@
         "cena": 188000.0,
         "agencija": "Erjavec nepremičnine, Erjavec Dušan s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220018,
@@ -14205,7 +14205,7 @@
         "cena": 249988.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218130,
@@ -14265,7 +14265,7 @@
         "cena": 159000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212151,
@@ -14325,7 +14325,7 @@
         "cena": 188000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206376,
@@ -14337,7 +14337,7 @@
         "cena": 53000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6184179,
@@ -14349,7 +14349,7 @@
         "cena": 165000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6186996,
@@ -14373,7 +14373,7 @@
         "cena": 419000.0,
         "agencija": "Rebernik nepremičnine, Samo Rebernik s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220140,
@@ -14421,7 +14421,7 @@
         "cena": 246000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219896,
@@ -14433,7 +14433,7 @@
         "cena": 150000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221166,
@@ -14445,7 +14445,7 @@
         "cena": 215000.0,
         "agencija": "COOP nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212772,
@@ -14505,7 +14505,7 @@
         "cena": 190000.0,
         "agencija": "Agencija Jakkra-n d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198134,
@@ -14541,7 +14541,7 @@
         "cena": 98000.0,
         "agencija": "Akcent d.o.o. Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218211,
@@ -14553,7 +14553,7 @@
         "cena": 98000.0,
         "agencija": "Akcent d.o.o. Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6070184,
@@ -14565,7 +14565,7 @@
         "cena": 98000.0,
         "agencija": "Akcent d.o.o. Ljubljana",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205392,
@@ -14589,7 +14589,7 @@
         "cena": 265000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216599,
@@ -14685,7 +14685,7 @@
         "cena": 87000.0,
         "agencija": "Agencija Galileja, Suzana Tomašić s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201439,
@@ -14697,7 +14697,7 @@
         "cena": 160000.0,
         "agencija": "ABA d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214985,
@@ -14709,7 +14709,7 @@
         "cena": 165000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213068,
@@ -14721,7 +14721,7 @@
         "cena": 209500.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219179,
@@ -14793,7 +14793,7 @@
         "cena": 325000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201854,
@@ -14817,7 +14817,7 @@
         "cena": 185000.0,
         "agencija": "ALEA nepremičninska družba d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212846,
@@ -14853,7 +14853,7 @@
         "cena": 89900.0,
         "agencija": "OBRAT,poslovanje z nepremičninami, Primož Sušnik s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216060,
@@ -14925,7 +14925,7 @@
         "cena": 169000.0,
         "agencija": "D5 invest d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216993,
@@ -14949,7 +14949,7 @@
         "cena": 100000.0,
         "agencija": "Feniks nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206016,
@@ -14985,7 +14985,7 @@
         "cena": 89900.0,
         "agencija": "OBRAT,poslovanje z nepremičninami, Primož Sušnik s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196101,
@@ -14997,7 +14997,7 @@
         "cena": 94500.0,
         "agencija": "Proneo d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6158835,
@@ -15009,7 +15009,7 @@
         "cena": 125000.0,
         "agencija": "Eventum d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217198,
@@ -15033,7 +15033,7 @@
         "cena": 154000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198122,
@@ -15057,7 +15057,7 @@
         "cena": 182000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201985,
@@ -15081,7 +15081,7 @@
         "cena": 260000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6171708,
@@ -15105,7 +15105,7 @@
         "cena": 349000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183014,
@@ -15117,7 +15117,7 @@
         "cena": 260410.71,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205946,
@@ -15141,7 +15141,7 @@
         "cena": 68000.0,
         "agencija": "Studio modul d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220949,
@@ -15165,7 +15165,7 @@
         "cena": 154000.0,
         "agencija": "ABA d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218614,
@@ -15189,7 +15189,7 @@
         "cena": 220000.0,
         "agencija": "PAK INVEST d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6172835,
@@ -15201,7 +15201,7 @@
         "cena": 220000.0,
         "agencija": "Rebernik nepremičnine, Samo Rebernik s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6172838,
@@ -15213,7 +15213,7 @@
         "cena": 260000.0,
         "agencija": "Rebernik nepremičnine, Samo Rebernik s.p.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216715,
@@ -15249,7 +15249,7 @@
         "cena": 162000.0,
         "agencija": "Aeon nepremičnine, d.o.o., Century 21 Primorska",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217183,
@@ -15273,7 +15273,7 @@
         "cena": 158000.0,
         "agencija": "Veduta nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219710,
@@ -15285,7 +15285,7 @@
         "cena": 190000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220844,
@@ -15297,7 +15297,7 @@
         "cena": 223000.0,
         "agencija": "HDS d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210781,
@@ -15309,7 +15309,7 @@
         "cena": 159900.0,
         "agencija": "HDS d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218253,
@@ -15321,7 +15321,7 @@
         "cena": 159900.0,
         "agencija": "HDS d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216351,
@@ -15333,7 +15333,7 @@
         "cena": 236000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221134,
@@ -15345,7 +15345,7 @@
         "cena": 247000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219237,
@@ -15417,7 +15417,7 @@
         "cena": 539000.0,
         "agencija": "Agencija Katja d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6187680,
@@ -15477,7 +15477,7 @@
         "cena": 195000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6186923,
@@ -15489,7 +15489,7 @@
         "cena": 87000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "LJ. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188966,
@@ -15537,7 +15537,7 @@
         "cena": 108000.0,
         "agencija": "Atrium nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219428,
@@ -15549,7 +15549,7 @@
         "cena": 105000.0,
         "agencija": "Adria nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217913,
@@ -15573,7 +15573,7 @@
         "cena": 139000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6194956,
@@ -15585,7 +15585,7 @@
         "cena": 114000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220708,
@@ -15597,7 +15597,7 @@
         "cena": 107000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219394,
@@ -15645,7 +15645,7 @@
         "cena": 159000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218931,
@@ -15681,7 +15681,7 @@
         "cena": 189000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6194999,
@@ -15693,7 +15693,7 @@
         "cena": 189000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6168774,
@@ -15705,7 +15705,7 @@
         "cena": 205000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208996,
@@ -15777,7 +15777,7 @@
         "cena": 260000.0,
         "agencija": "Novi list d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215465,
@@ -15813,7 +15813,7 @@
         "cena": 164900.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214756,
@@ -15825,7 +15825,7 @@
         "cena": 168000.0,
         "agencija": "MP PROJEKT d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221226,
@@ -15837,7 +15837,7 @@
         "cena": 173000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219299,
@@ -15849,7 +15849,7 @@
         "cena": 239000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215314,
@@ -15861,7 +15861,7 @@
         "cena": 269000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190243,
@@ -15873,7 +15873,7 @@
         "cena": 245000.0,
         "agencija": "Nepremičnine KLEMENČIČ, Borut Klemenčič Hočevar s.p.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6132427,
@@ -15885,7 +15885,7 @@
         "cena": 349900.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6177072,
@@ -15945,7 +15945,7 @@
         "cena": 385000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211512,
@@ -15957,7 +15957,7 @@
         "cena": 295000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218939,
@@ -15969,7 +15969,7 @@
         "cena": 220000.0,
         "agencija": "Central RE d.o.o., PE LJUBLJANA",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221424,
@@ -15981,7 +15981,7 @@
         "cena": 295000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188689,
@@ -15993,7 +15993,7 @@
         "cena": 590000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6153950,
@@ -16017,7 +16017,7 @@
         "cena": 349900.0,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216794,
@@ -16053,7 +16053,7 @@
         "cena": 480000.0,
         "agencija": "Kupola nepremičnina d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200104,
@@ -16065,7 +16065,7 @@
         "cena": 890000.0,
         "agencija": "Kupola nepremičnina d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216088,
@@ -16077,7 +16077,7 @@
         "cena": 108000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196664,
@@ -16089,7 +16089,7 @@
         "cena": 114000.0,
         "agencija": "ALEA nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6184652,
@@ -16113,7 +16113,7 @@
         "cena": 189000.0,
         "agencija": "Medvešek Pušnik Nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220283,
@@ -16125,7 +16125,7 @@
         "cena": 297000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209408,
@@ -16137,7 +16137,7 @@
         "cena": 278000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213459,
@@ -16149,7 +16149,7 @@
         "cena": 205000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206378,
@@ -16161,7 +16161,7 @@
         "cena": 220000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 5867227,
@@ -16173,7 +16173,7 @@
         "cena": 349900.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6144193,
@@ -16185,7 +16185,7 @@
         "cena": 257443.0,
         "agencija": "Nepremičnine M8, Lea Kavalič s.p.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212803,
@@ -16197,7 +16197,7 @@
         "cena": 99000.0,
         "agencija": "Realia d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207798,
@@ -16209,7 +16209,7 @@
         "cena": 125000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197098,
@@ -16221,7 +16221,7 @@
         "cena": 233000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213230,
@@ -16233,7 +16233,7 @@
         "cena": 249000.0,
         "agencija": "Mernet d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6187625,
@@ -16245,7 +16245,7 @@
         "cena": 289000.0,
         "agencija": "Visa d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219748,
@@ -16257,7 +16257,7 @@
         "cena": 181000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212912,
@@ -16281,7 +16281,7 @@
         "cena": 465000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220409,
@@ -16293,7 +16293,7 @@
         "cena": 630000.0,
         "agencija": "Casa 69 d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216529,
@@ -16305,7 +16305,7 @@
         "cena": 120500.0,
         "agencija": "Mikljič-Hribar Company d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6164333,
@@ -16317,7 +16317,7 @@
         "cena": 379000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6170204,
@@ -16329,7 +16329,7 @@
         "cena": 308000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183663,
@@ -16341,7 +16341,7 @@
         "cena": 341000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183660,
@@ -16353,7 +16353,7 @@
         "cena": 294000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6170170,
@@ -16365,7 +16365,7 @@
         "cena": 298000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183657,
@@ -16377,7 +16377,7 @@
         "cena": 298000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221605,
@@ -16389,7 +16389,7 @@
         "cena": 329000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183656,
@@ -16401,7 +16401,7 @@
         "cena": 373000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6170162,
@@ -16413,7 +16413,7 @@
         "cena": 380000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217377,
@@ -16437,7 +16437,7 @@
         "cena": 219000.0,
         "agencija": "Vehovar nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188169,
@@ -16461,7 +16461,7 @@
         "cena": 295000.0,
         "agencija": "Real Go d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212328,
@@ -16485,7 +16485,7 @@
         "cena": 79000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212145,
@@ -16521,7 +16521,7 @@
         "cena": 260000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218155,
@@ -16533,7 +16533,7 @@
         "cena": 180000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6112569,
@@ -16545,7 +16545,7 @@
         "cena": 160000.0,
         "agencija": "ALEA nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217094,
@@ -16557,7 +16557,7 @@
         "cena": 465000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217109,
@@ -16569,7 +16569,7 @@
         "cena": 630000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221581,
@@ -16605,7 +16605,7 @@
         "cena": 349900.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216848,
@@ -16617,7 +16617,7 @@
         "cena": 139000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221047,
@@ -16629,7 +16629,7 @@
         "cena": 89000.0,
         "agencija": "Agencia d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217758,
@@ -16665,7 +16665,7 @@
         "cena": 188000.0,
         "agencija": "HIP KA d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216136,
@@ -16689,7 +16689,7 @@
         "cena": 129000.0,
         "agencija": "Nepremičnine Agencius, Kristijan Mohorko s.p.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219648,
@@ -16701,7 +16701,7 @@
         "cena": 112500.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213682,
@@ -16725,7 +16725,7 @@
         "cena": 323900.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190481,
@@ -16749,7 +16749,7 @@
         "cena": 295000.0,
         "agencija": "Re-Domus nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189284,
@@ -16761,7 +16761,7 @@
         "cena": 420000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198864,
@@ -16773,7 +16773,7 @@
         "cena": 490200.0,
         "agencija": "Blok d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198871,
@@ -16785,7 +16785,7 @@
         "cena": 499800.0,
         "agencija": "Blok d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6173311,
@@ -16809,7 +16809,7 @@
         "cena": 279000.0,
         "agencija": "Svet RE d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6092062,
@@ -16833,7 +16833,7 @@
         "cena": 256982.54,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217229,
@@ -16845,7 +16845,7 @@
         "cena": 119000.0,
         "agencija": "Hiša nepremičnine 1 d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207921,
@@ -16869,7 +16869,7 @@
         "cena": 270000.0,
         "agencija": "Realia d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195234,
@@ -16893,7 +16893,7 @@
         "cena": 295000.0,
         "agencija": "ABA d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214145,
@@ -16905,7 +16905,7 @@
         "cena": 419000.0,
         "agencija": "Vuitea d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219504,
@@ -16917,7 +16917,7 @@
         "cena": 157000.0,
         "agencija": "Erjavec nepremičnine, Erjavec Dušan s.p.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6183672,
@@ -16929,7 +16929,7 @@
         "cena": 302000.0,
         "agencija": "Stanovanjski sklad RS",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6186656,
@@ -16941,7 +16941,7 @@
         "cena": 255000.0,
         "agencija": "Harmonija nepremičnine Ksenja Kokalj s.p.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212594,
@@ -16977,7 +16977,7 @@
         "cena": 239000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6202321,
@@ -17001,7 +17001,7 @@
         "cena": 330000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6102281,
@@ -17013,7 +17013,7 @@
         "cena": 118000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215917,
@@ -17025,7 +17025,7 @@
         "cena": 297000.0,
         "agencija": "Zasebna ponudba",
         "enota": "LJ. VIČ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211862,
@@ -17049,7 +17049,7 @@
         "cena": 325000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "MOSTEC",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196228,
@@ -17061,7 +17061,7 @@
         "cena": 179000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "MURGLE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6166465,
@@ -17073,7 +17073,7 @@
         "cena": 179000.0,
         "agencija": "Zasebna ponudba",
         "enota": "MURGLE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213228,
@@ -17085,7 +17085,7 @@
         "cena": 183000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "MURGLE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210424,
@@ -17097,7 +17097,7 @@
         "cena": 350000.0,
         "agencija": "Mijaks investicije d.o.o.",
         "enota": "MURGLE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220442,
@@ -17109,7 +17109,7 @@
         "cena": 269000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "MURGLE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6181850,
@@ -17145,7 +17145,7 @@
         "cena": 184000.0,
         "agencija": "Inalbea d.o.o.",
         "enota": "NOVE FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221184,
@@ -17169,7 +17169,7 @@
         "cena": 180000.0,
         "agencija": "Zasebna ponudba",
         "enota": "NOVE FUŽINE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6192325,
@@ -17181,7 +17181,7 @@
         "cena": 69000.0,
         "agencija": "Renex, Tadej Tanšek s.p.",
         "enota": "NOVE JARŠE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204989,
@@ -17193,7 +17193,7 @@
         "cena": 109990.0,
         "agencija": "Real-fin posredovanje z nepremičninami d.o.o., PE Celje",
         "enota": "NOVE JARŠE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212570,
@@ -17277,7 +17277,7 @@
         "cena": 189000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "NOVE JARŠE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219010,
@@ -17325,7 +17325,7 @@
         "cena": 224000.0,
         "agencija": "MKA nepremičnine d.o.o.",
         "enota": "NOVE JARŠE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215014,
@@ -17361,7 +17361,7 @@
         "cena": 170000.0,
         "agencija": "Zasebna ponudba",
         "enota": "NOVO POLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219395,
@@ -17373,7 +17373,7 @@
         "cena": 169000.0,
         "agencija": "Hiša nepremičnine 1 d.o.o.",
         "enota": "PODUTIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218415,
@@ -17397,7 +17397,7 @@
         "cena": 155000.0,
         "agencija": "ALTERA, d.o.o.",
         "enota": "PODUTIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198360,
@@ -17409,7 +17409,7 @@
         "cena": 155000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "PODUTIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6177569,
@@ -17457,7 +17457,7 @@
         "cena": 157000.0,
         "agencija": "Zasebna ponudba",
         "enota": "PODUTIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220652,
@@ -17469,7 +17469,7 @@
         "cena": 230000.0,
         "agencija": "Visa d.o.o., Ljubljana",
         "enota": "PODUTIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207768,
@@ -17493,7 +17493,7 @@
         "cena": 229000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "POLJANE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197373,
@@ -17661,7 +17661,7 @@
         "cena": 219500.0,
         "agencija": "Salomon nepremičnine, Anže Nahtigal, s.p.",
         "enota": "POLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195217,
@@ -17721,7 +17721,7 @@
         "cena": 146000.0,
         "agencija": "Realia d.o.o.",
         "enota": "POLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6076503,
@@ -17769,7 +17769,7 @@
         "cena": 122000.0,
         "agencija": "Nepremičnine KLEMENČIČ, Borut Klemenčič Hočevar s.p.",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217765,
@@ -17817,7 +17817,7 @@
         "cena": 150000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218933,
@@ -17853,7 +17853,7 @@
         "cena": 215400.0,
         "agencija": "Zasebna ponudba",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220368,
@@ -17877,7 +17877,7 @@
         "cena": 630000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6176825,
@@ -17889,7 +17889,7 @@
         "cena": 680000.0,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6191523,
@@ -17901,7 +17901,7 @@
         "cena": 720952.5,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6193178,
@@ -17913,7 +17913,7 @@
         "cena": 713888.75,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6191548,
@@ -17925,7 +17925,7 @@
         "cena": 812786.25,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6191527,
@@ -17937,7 +17937,7 @@
         "cena": 862972.5,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "PRULE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6106766,
@@ -17997,7 +17997,7 @@
         "cena": 161000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "RAKOVNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214220,
@@ -18009,7 +18009,7 @@
         "cena": 215000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "RAKOVNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199417,
@@ -18021,7 +18021,7 @@
         "cena": 220000.0,
         "agencija": "Zasebna ponudba",
         "enota": "RAPOVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6193768,
@@ -18033,7 +18033,7 @@
         "cena": 129000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219870,
@@ -18045,7 +18045,7 @@
         "cena": 295000.0,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196783,
@@ -18177,7 +18177,7 @@
         "cena": 450000.0,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206254,
@@ -18189,7 +18189,7 @@
         "cena": 520000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208526,
@@ -18201,7 +18201,7 @@
         "cena": 2477.0,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220336,
@@ -18213,7 +18213,7 @@
         "cena": 459566.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206281,
@@ -18225,7 +18225,7 @@
         "cena": 490200.0,
         "agencija": "Gradina d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207164,
@@ -18237,7 +18237,7 @@
         "cena": 499800.0,
         "agencija": "Gradina d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214730,
@@ -18273,7 +18273,7 @@
         "cena": 349000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6186940,
@@ -18285,7 +18285,7 @@
         "cena": 349900.0,
         "agencija": "Studio 68 d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211955,
@@ -18297,7 +18297,7 @@
         "cena": 450000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221457,
@@ -18321,7 +18321,7 @@
         "cena": 108000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198068,
@@ -18333,7 +18333,7 @@
         "cena": 335000.0,
         "agencija": "Mijaks investicije d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6198121,
@@ -18345,7 +18345,7 @@
         "cena": 500000.0,
         "agencija": "Mijaks investicije d.o.o.",
         "enota": "ROŽNA DOLINA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6189415,
@@ -18393,7 +18393,7 @@
         "cena": 112000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216420,
@@ -18429,7 +18429,7 @@
         "cena": 196000.0,
         "agencija": "Nepremičnine Prijatelj, svetovanje in nepremičninsko posredovanje d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214121,
@@ -18441,7 +18441,7 @@
         "cena": 217000.0,
         "agencija": "Zasebna ponudba",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196400,
@@ -18453,7 +18453,7 @@
         "cena": 218000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219107,
@@ -18465,7 +18465,7 @@
         "cena": 146000.0,
         "agencija": "Zasebna ponudba",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220143,
@@ -18477,7 +18477,7 @@
         "cena": 146000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6171905,
@@ -18489,7 +18489,7 @@
         "cena": 173000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218665,
@@ -18501,7 +18501,7 @@
         "cena": 217000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210107,
@@ -18513,7 +18513,7 @@
         "cena": 269000.0,
         "agencija": "Real Go d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204500,
@@ -18525,7 +18525,7 @@
         "cena": 119000.0,
         "agencija": "Atrium nepremičnine d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6004754,
@@ -18537,7 +18537,7 @@
         "cena": 410000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220152,
@@ -18549,7 +18549,7 @@
         "cena": 76000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6160644,
@@ -18561,7 +18561,7 @@
         "cena": 58000.0,
         "agencija": "Kreativa MW d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6160660,
@@ -18573,7 +18573,7 @@
         "cena": 140000.0,
         "agencija": "Kreativa MW d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6180336,
@@ -18597,7 +18597,7 @@
         "cena": 329000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207765,
@@ -18609,7 +18609,7 @@
         "cena": 339000.0,
         "agencija": "Zasebna ponudba",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6113354,
@@ -18621,7 +18621,7 @@
         "cena": 142000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6181596,
@@ -18645,7 +18645,7 @@
         "cena": 119999.0,
         "agencija": "Didom d.o.o.",
         "enota": "RUDNIK",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6143667,
@@ -18681,7 +18681,7 @@
         "cena": 299000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "SAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197004,
@@ -18693,7 +18693,7 @@
         "cena": 299000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "SAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201056,
@@ -18705,7 +18705,7 @@
         "cena": 299000.0,
         "agencija": "Renex, Tadej Tanšek s.p.",
         "enota": "SAVLJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213735,
@@ -18717,7 +18717,7 @@
         "cena": 169000.0,
         "agencija": "Dodoma d.o.o., PE Ljubljana",
         "enota": "SAVSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6119165,
@@ -18753,7 +18753,7 @@
         "cena": 200000.0,
         "agencija": "Nepremičnine Land d.o.o.",
         "enota": "SAVSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211749,
@@ -18825,7 +18825,7 @@
         "cena": 84900.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "SP. KAŠELJ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220646,
@@ -18837,7 +18837,7 @@
         "cena": 179000.0,
         "agencija": "Hiša nepremičnine 1 d.o.o.",
         "enota": "SP. KAŠELJ",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220681,
@@ -18885,7 +18885,7 @@
         "cena": 159000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "SP. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6182836,
@@ -18921,7 +18921,7 @@
         "cena": 167000.0,
         "agencija": "Zasebna ponudba",
         "enota": "SP. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195355,
@@ -18933,7 +18933,7 @@
         "cena": 236000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "SP. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6163419,
@@ -18945,7 +18945,7 @@
         "cena": 350000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "SP. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210559,
@@ -18993,7 +18993,7 @@
         "cena": 125000.0,
         "agencija": "Zasebna ponudba",
         "enota": "SP. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217577,
@@ -19005,7 +19005,7 @@
         "cena": 145000.0,
         "agencija": "Zasebna ponudba",
         "enota": "SP. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6213287,
@@ -19089,7 +19089,7 @@
         "cena": 665000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "STARA LJ.",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216669,
@@ -19125,7 +19125,7 @@
         "cena": 1250000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "STARA LJ.",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6172653,
@@ -19161,7 +19161,7 @@
         "cena": 320000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "STOŽICE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216017,
@@ -19173,7 +19173,7 @@
         "cena": 93000.0,
         "agencija": "Posest nepremičnine d.o.o.",
         "enota": "STOŽICE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216023,
@@ -19185,7 +19185,7 @@
         "cena": 114000.0,
         "agencija": "Posest nepremičnine d.o.o.",
         "enota": "STOŽICE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6201163,
@@ -19209,7 +19209,7 @@
         "cena": 81000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219863,
@@ -19221,7 +19221,7 @@
         "cena": 86000.0,
         "agencija": "STANART d.o.o., PE LJUBLJANA",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6166546,
@@ -19233,7 +19233,7 @@
         "cena": 85000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209903,
@@ -19257,7 +19257,7 @@
         "cena": 128000.0,
         "agencija": "Nepremičninska družba d.o.o., PE RE/MAX Vogal",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6166738,
@@ -19269,7 +19269,7 @@
         "cena": 99000.0,
         "agencija": "LGP d.o.o.",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209090,
@@ -19305,7 +19305,7 @@
         "cena": 200000.0,
         "agencija": "APOLONIJ nepremičnine d.o.o.",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221370,
@@ -19317,7 +19317,7 @@
         "cena": 420000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221369,
@@ -19341,7 +19341,7 @@
         "cena": 159000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209840,
@@ -19353,7 +19353,7 @@
         "cena": 130000.0,
         "agencija": "EvroN d.o.o.",
         "enota": "ŠENTVID",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218275,
@@ -19365,7 +19365,7 @@
         "cena": 240000.0,
         "agencija": "Real Go d.o.o.",
         "enota": "ŠMARTNO POD ŠMARNO GORO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218271,
@@ -19377,7 +19377,7 @@
         "cena": 280000.0,
         "agencija": "Real Go d.o.o.",
         "enota": "ŠMARTNO POD ŠMARNO GORO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205725,
@@ -19389,7 +19389,7 @@
         "cena": 50000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠTEPANJA VAS",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216981,
@@ -19413,7 +19413,7 @@
         "cena": 71500.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠTEPANJA VAS",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6212597,
@@ -19425,7 +19425,7 @@
         "cena": 72000.0,
         "agencija": "ALTERA, d.o.o.",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210034,
@@ -19497,7 +19497,7 @@
         "cena": 158000.0,
         "agencija": "EvroN d.o.o.",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221195,
@@ -19521,7 +19521,7 @@
         "cena": 157000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197232,
@@ -19545,7 +19545,7 @@
         "cena": 159000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214487,
@@ -19557,7 +19557,7 @@
         "cena": 139000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6205344,
@@ -19569,7 +19569,7 @@
         "cena": 240000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199379,
@@ -19605,7 +19605,7 @@
         "cena": 119000.0,
         "agencija": "Bajtiga poslovanje z nepremičninami d.o.o.",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218038,
@@ -19629,7 +19629,7 @@
         "cena": 230000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6197988,
@@ -19665,7 +19665,7 @@
         "cena": 49000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ŠTEPANJSKO NASELJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207594,
@@ -19701,7 +19701,7 @@
         "cena": 218000.0,
         "agencija": "Zasebna ponudba",
         "enota": "TABOR",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6204523,
@@ -19713,7 +19713,7 @@
         "cena": 127000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209698,
@@ -19725,7 +19725,7 @@
         "cena": 167000.0,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214838,
@@ -19737,7 +19737,7 @@
         "cena": 189000.0,
         "agencija": "Mreža nepremičnin d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208017,
@@ -19749,7 +19749,7 @@
         "cena": 198000.0,
         "agencija": "RECONSULT d.o.o., PE RCN, RECONSULT NEPREMIČNINE",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6192207,
@@ -19761,7 +19761,7 @@
         "cena": 203000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207301,
@@ -19773,7 +19773,7 @@
         "cena": 195000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206432,
@@ -19785,7 +19785,7 @@
         "cena": 195000.0,
         "agencija": "KREATIVDOM d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219554,
@@ -19797,7 +19797,7 @@
         "cena": 275000.0,
         "agencija": "Medvešek Pušnik Nepremičnine d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214731,
@@ -19809,7 +19809,7 @@
         "cena": 190000.0,
         "agencija": "Zasebna ponudba",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6078937,
@@ -19821,7 +19821,7 @@
         "cena": 232000.0,
         "agencija": "Rojal invest d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6157282,
@@ -19833,7 +19833,7 @@
         "cena": 85000.0,
         "agencija": "EvroN d.o.o.",
         "enota": "TACEN",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6119016,
@@ -19881,7 +19881,7 @@
         "cena": 153200.0,
         "agencija": "Medvešek Pušnik Nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6192264,
@@ -19965,7 +19965,7 @@
         "cena": 375000.0,
         "agencija": "STAN nepremičnine d.o.o., Ljubljana",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206330,
@@ -19977,7 +19977,7 @@
         "cena": 490000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6117819,
@@ -19989,7 +19989,7 @@
         "cena": 490000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6120099,
@@ -20001,7 +20001,7 @@
         "cena": 490000.0,
         "agencija": "MP PROJEKT, d.o.o., PE Ljubljana",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218219,
@@ -20049,7 +20049,7 @@
         "cena": 855000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208950,
@@ -20061,7 +20061,7 @@
         "cena": 950000.0,
         "agencija": "Galeno d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6117816,
@@ -20073,7 +20073,7 @@
         "cena": 829000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6120096,
@@ -20085,7 +20085,7 @@
         "cena": 829000.0,
         "agencija": "MP PROJEKT, d.o.o., PE Ljubljana",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6206329,
@@ -20097,7 +20097,7 @@
         "cena": 829000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218344,
@@ -20109,7 +20109,7 @@
         "cena": 170000.0,
         "agencija": "Zasebna ponudba",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218872,
@@ -20133,7 +20133,7 @@
         "cena": 500000.0,
         "agencija": "Zasebna ponudba",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6195444,
@@ -20169,7 +20169,7 @@
         "cena": 219000.0,
         "agencija": "Vehovar nepremičnine d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6132287,
@@ -20193,7 +20193,7 @@
         "cena": 138000.0,
         "agencija": "Euromark-a d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211523,
@@ -20217,7 +20217,7 @@
         "cena": 155000.0,
         "agencija": "Zasebna ponudba",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207417,
@@ -20229,7 +20229,7 @@
         "cena": 135000.0,
         "agencija": "Euromark-a d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6210607,
@@ -20253,7 +20253,7 @@
         "cena": 560000.0,
         "agencija": "GRE d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219804,
@@ -20265,7 +20265,7 @@
         "cena": 175000.0,
         "agencija": "MESTO NEPREMIČNIN d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 5944881,
@@ -20301,7 +20301,7 @@
         "cena": 343000.0,
         "agencija": "Zasebna ponudba",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6208326,
@@ -20325,7 +20325,7 @@
         "cena": 480000.0,
         "agencija": "Kreativa MW d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6218560,
@@ -20361,7 +20361,7 @@
         "cena": 309000.0,
         "agencija": "Agenti Celje, AŽ&MB Nerad d.o.o.",
         "enota": "TRNOVO",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6203848,
@@ -20409,7 +20409,7 @@
         "cena": 65000.0,
         "agencija": "Zasebna ponudba",
         "enota": "VEVČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6188344,
@@ -20421,7 +20421,7 @@
         "cena": 115000.0,
         "agencija": "Rocco nepremičnine d.o.o.",
         "enota": "VEVČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6211611,
@@ -20445,7 +20445,7 @@
         "cena": 310000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "VEVČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6209522,
@@ -20469,7 +20469,7 @@
         "cena": 320000.0,
         "agencija": "Lares nepremičninska družba d.o.o.",
         "enota": "VEVČE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6021526,
@@ -20493,7 +20493,7 @@
         "cena": 249000.0,
         "agencija": "Nepremičnine in cenitve Mitnica Uroš Jere s.p.",
         "enota": "VIŽMARJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219984,
@@ -20505,7 +20505,7 @@
         "cena": 202000.0,
         "agencija": "Zasebna ponudba",
         "enota": "VIŽMARJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6194850,
@@ -20517,7 +20517,7 @@
         "cena": 195000.0,
         "agencija": "Zasebna ponudba",
         "enota": "VIŽMARJE",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214375,
@@ -20577,7 +20577,7 @@
         "cena": 297000.0,
         "agencija": "Stoja trade, d.o.o., Ljubljana",
         "enota": "VRHOVCI",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6196642,
@@ -20601,7 +20601,7 @@
         "cena": 119000.0,
         "agencija": "ABC nepremičnine d.o.o.",
         "enota": "ZALOG",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6202132,
@@ -20613,7 +20613,7 @@
         "cena": 155000.0,
         "agencija": "Goran Barišić s.p.",
         "enota": "ZALOG",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6207384,
@@ -20625,7 +20625,7 @@
         "cena": 155000.0,
         "agencija": "Goran Barišić s.p.",
         "enota": "ZALOG",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6185870,
@@ -20637,7 +20637,7 @@
         "cena": 124000.0,
         "agencija": "KU-MI nepremičnine d.o.o.",
         "enota": "ZALOG",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6166597,
@@ -20709,7 +20709,7 @@
         "cena": 112500.0,
         "agencija": "Sans nepremičnine, d.o.o.",
         "enota": "ZALOG",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6199229,
@@ -20757,7 +20757,7 @@
         "cena": 230000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "ZELENA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220977,
@@ -20793,7 +20793,7 @@
         "cena": 51000.0,
         "agencija": "Sans nepremičnine, d.o.o.",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6190269,
@@ -20817,7 +20817,7 @@
         "cena": 93000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214184,
@@ -20829,7 +20829,7 @@
         "cena": 145000.0,
         "agencija": "Nepremičninsko posredovanje, Iris Bavdek s.p.",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6220891,
@@ -20841,7 +20841,7 @@
         "cena": 150000.0,
         "agencija": "ALTERA, d.o.o.",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219181,
@@ -20901,7 +20901,7 @@
         "cena": 156000.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214488,
@@ -20925,7 +20925,7 @@
         "cena": 279000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6200464,
@@ -20961,7 +20961,7 @@
         "cena": 165000.0,
         "agencija": "Sans nepremičnine, d.o.o.",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215428,
@@ -20997,7 +20997,7 @@
         "cena": 87000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217659,
@@ -21009,7 +21009,7 @@
         "cena": 84000.0,
         "agencija": "Nepremičninska agencija \"TLORIS\" Miro Torić s.p., Poslovna enota",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214117,
@@ -21021,7 +21021,7 @@
         "cena": 165000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ZG. ŠIŠKA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6219609,
@@ -21033,7 +21033,7 @@
         "cena": 165000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ZUPANČIČEVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6215026,
@@ -21045,7 +21045,7 @@
         "cena": 165000.0,
         "agencija": "Roni nepremičnine d.o.o.",
         "enota": "ZUPANČIČEVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6214701,
@@ -21093,7 +21093,7 @@
         "cena": 210000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ZUPANČIČEVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6177516,
@@ -21105,7 +21105,7 @@
         "cena": 249900.0,
         "agencija": "LJUBLJANA NEPREMIČNINE d.o.o.",
         "enota": "ZUPANČIČEVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6216308,
@@ -21141,7 +21141,7 @@
         "cena": 349900.0,
         "agencija": "Zasebna ponudba",
         "enota": "ZUPANČIČEVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6221033,
@@ -21165,7 +21165,7 @@
         "cena": 480000.0,
         "agencija": "Realia d.o.o.",
         "enota": "ZUPANČIČEVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     },
     {
         "id": 6217127,
@@ -21189,6 +21189,6 @@
         "cena": 198000.0,
         "agencija": "Zasebna ponudba",
         "enota": "ZUPANČIČEVA JAMA",
-        "adaptirano": "None"
+        "adaptirano": null
     }
 ]
