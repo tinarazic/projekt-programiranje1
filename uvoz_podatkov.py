@@ -6,14 +6,14 @@ import sys
 import requests
 import orodja
 
-# definiramo URL glavne strani z nepremičninami
-nepremicnine_frontpage_url = 'https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/'
+# URL glavne strani z nepremičninami
+# 'https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/'
+
 # mapa, v katero bomo shranili podatke
-nepremicnine_directory = '_podatki'
-# ime datoteke v katero bomo shranili glavno stran
-frontpage_filename = 'nepremicnine.html'
+# obdelani-podatki'
+
 # ime CSV datoteke v katero bomo shranili podatke
-csv_filename = 'stanovanja.csv'
+# 'stanovanja.csv'
 
 # shranim vse strani dne 23.10.2018 (od 1 do 59, vse skupaj 1768 zadetkov)
 
@@ -39,22 +39,23 @@ vzorec_oglasa = re.compile(
     r'id="(?P<id>\d+?)"'
     r'.*?'
     r'class="tipi">(?P<tip>\w*?)</span></span>'
-    r'.*?<span\s?class="atribut'
-    r'(">Nadstropje:\s<strong>(?P<nadstropje>\w*?)</strong>)?.*?'
+    r'.*?'
+    r'<span\s?class="atribut'
+    r'(">Nadstropje:\s<strong>(?P<nadstropje>\w*?)</strong>)?'
+    r'.*?'
     r'leto">Leto:\s<strong>(?P<leto>\d*)'
     r'.*?'
     r'itemprop="description">(?P<opis>.*?)</div>'
     r'.*?'
-    #r'class="velikost">(?P<velikost>\w*?)</span><br\s/>'
-    #r'.*?'
-    #r'class="cena">(?P<cena>\w*?)</span>'
-    #r'.*?'
-    #r'class="agencija">(?P<agencija>\w*?)</span>'
-    r'.*?',
+    r'class="velikost">(?P<velikost>.*?)\sm2'
+    r'.*?'
+    r'class="cena">(?P<cena>.*?)\s\&euro'
+    r'.*?'
+    r'class="agencija">(?P<agencija>.*?)</span>',
     re.DOTALL)
 
-# poiščemo vse bloke oglasov na spletni strani
 
+# poiščemo vse bloke oglasov na spletni strani
 
 def stanovanja_na_strani(st_strani):
     ime_datoteke = 'zajete_strani/stanovanja_ljubljana_{}.html'.format(
@@ -67,16 +68,32 @@ def stanovanja_na_strani(st_strani):
 
 oglasi = []
 for st_strani in range(1, 60):
-    for oglas in stanovanja_na_strani(st_strani):
-        oglasi.append(oglas)
+    for blok in stanovanja_na_strani(st_strani):
+        oglasi.append(blok)
 
 # v seznamu oglasi imamo sedaj vse bloke iz vseh strani
+
+# naredimo seznam slovarjev in uredimo podatke
 
 slovarji = []
 
 for blok in oglasi:
     for ujemanje in vzorec_oglasa.finditer(blok):
         oglas = ujemanje.groupdict()
+        oglas['id'] = int(oglas['id'])
+        oglas['tip'] = str(oglas['tip'])
+        oglas['nadstropje'] = str(oglas['nadstropje'])
+        oglas['leto'] = int(oglas['leto'])
+        oglas['opis'] = str(oglas['opis'])
+        oglas['velikost'] = float(oglas['velikost'].replace(',','.'))
+        oglas['cena'] = float(oglas['cena'].replace('.','').replace(',','.'))
+        oglas['agencija'] = str(oglas['agencija'])
         slovarji.append(oglas)
 
-orodja.zapisi_csv(slovarji, ['id', 'tip', 'nadstropje', 'leto', 'velikost', 'opis'], 'obdelani-podatki/stanovanja.csv')
+# vsak slovar vsebuje ključe: 
+# id, tip, nadstropje, leto, opis, velikost, cena, agencija
+
+# zapišimo sedaj podatke v csv (in json za vpogled) in razvrstimo stolpce
+
+orodja.zapisi_csv(slovarji, ['id', 'tip', 'leto', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'], 'obdelani-podatki/stanovanja.csv')
+orodja.zapisi_json(slovarji, 'obdelani-podatki/stanovanja.json')
