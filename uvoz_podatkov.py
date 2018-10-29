@@ -15,7 +15,7 @@ import orodja
 # ime CSV datoteke v katero bomo shranili podatke
 # 'stanovanja.csv'
 
-# shranim vse strani dne 23.10.2018 (od 1 do 59, vse skupaj 1768 zadetkov)
+# najprej shranim vse strani dne 23.10.2018 (od 1 do 59, vse skupaj 1768 zadetkov)
 
 for i in range(1, 60):
     url = (
@@ -58,7 +58,7 @@ vzorec_oglasa = re.compile(
 
 vzorec_enota = re.compile(
     r'class="title">(?P<enota>.*?)</span></a></h2>',
-    flags=RE.DOTALL
+    flags=re.DOTALL
 )
 
 vzorec_adaptacija = re.compile(
@@ -66,7 +66,6 @@ vzorec_adaptacija = re.compile(
     r'adaptiran\w*?\sl\.\s(?P<adaptirano>\d{4})',
     flags=re.DOTALL
 )
-
 
 # poiščemo vse bloke oglasov na spletni strani
 
@@ -102,27 +101,31 @@ for blok in oglasi:
         oglas['velikost'] = float(oglas['velikost'].replace(',', '.'))
         oglas['cena'] = float(oglas['cena'].replace('.', '').replace(',', '.'))
         oglas['agencija'] = str(oglas['agencija'])
-        
-        # dodamo leto adaptacije, če je bila zgradba adaptirana
 
-        ujemanje = vzorec_adaptacija.search(oglas['opis'])
+        # dodamo upravno enoto iz naslova
+        ujemanje = vzorec_enota.search(blok)
         if ujemanje:
-            oglas['adaptirano'] = int(ujemanje['adaptirano'])
+            oglas['enota'] = str(ujemanje['enota']).split(',')[0]
+        else:
+            oglas['enota'] = "None"
+
+        # dodamo leto adptacije, če je bila zgradba adaptirana
+        ujemanje1 = vzorec_adaptacija.search(oglas['opis'])
+        if ujemanje1:
+            oglas['adaptirano'] = int(ujemanje1['adaptirano'])
         else:
             oglas['adaptirano'] = 'None'
 
         slovarji.append(oglas)
 
 # vsak slovar vsebuje ključe:
-# id, tip, nadstropje, leto, opis, velikost, cena, agencija
+# id, tip, nadstropje, leto, opis, velikost, cena, agencija, enota, adaptirano
 
 # zapišimo sedaj podatke v csv (in json za vpogled) in razvrstimo stolpce
 
 orodja.zapisi_csv(
     slovarji,
-    ['id', 'tip', 'leto', 'adaptirano', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'],
+    ['id', 'enota', 'tip', 'leto', 'adaptirano', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'],
     'obdelani-podatki/stanovanja.csv'
 )
 orodja.zapisi_json(slovarji, 'obdelani-podatki/stanovanja.json')
-
-# treba dodat še upravno enoto!
