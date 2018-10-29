@@ -40,8 +40,6 @@ vzorec_bloka = re.compile(
 vzorec_oglasa = re.compile(
     r'id="(?P<id>\d+?)"'
     r'.*?'
-    r'class="title">(?P<enota>\w*?)</span>'
-    r'.*?'
     r'class="tipi">(?P<tip>\w*?)</span></span>'
     r'.*?'
     r'<span\s?class="atribut'
@@ -57,6 +55,11 @@ vzorec_oglasa = re.compile(
     r'.*?'
     r'class="agencija">(?P<agencija>.*?)</span>',
     re.DOTALL)
+
+vzorec_enota = re.compile(
+    r'class="title">(?P<enota>.*?)</span></a></h2>',
+    flags=RE.DOTALL
+)
 
 vzorec_adaptacija = re.compile(
     r'.*?'
@@ -92,7 +95,6 @@ for blok in oglasi:
         oglas = ujemanje.groupdict()
 
         oglas['id'] = int(oglas['id'])
-        oglas['enota'] = str(oglas['enota'])
         oglas['tip'] = str(oglas['tip'])
         oglas['nadstropje'] = str(oglas['nadstropje'])
         oglas['leto'] = int(oglas['leto'])
@@ -100,8 +102,8 @@ for blok in oglasi:
         oglas['velikost'] = float(oglas['velikost'].replace(',', '.'))
         oglas['cena'] = float(oglas['cena'].replace('.', '').replace(',', '.'))
         oglas['agencija'] = str(oglas['agencija'])
-
-        # dodamo leto adptacije, če je bila zgradba adaptirana
+        
+        # dodamo leto adaptacije, če je bila zgradba adaptirana
 
         ujemanje = vzorec_adaptacija.search(oglas['opis'])
         if ujemanje:
@@ -118,9 +120,9 @@ for blok in oglasi:
 
 orodja.zapisi_csv(
     slovarji,
-    ['id', 'enota', 'tip', 'leto', 'adaptirano', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'],
+    ['id', 'tip', 'leto', 'adaptirano', 'nadstropje', 'velikost', 'cena', 'agencija', 'opis'],
     'obdelani-podatki/stanovanja.csv'
 )
 orodja.zapisi_json(slovarji, 'obdelani-podatki/stanovanja.json')
 
-# ne dela upravna enota!
+# treba dodat še upravno enoto!
