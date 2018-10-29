@@ -109,14 +109,14 @@ for blok in oglasi:
         if ujemanje:
             oglas['enota'] = str(ujemanje['enota']).split(',')[0]
         else:
-            oglas['enota'] = "None"
+            oglas['enota'] = None
 
         # dodamo leto adptacije, če je bila zgradba adaptirana
         ujemanje1 = vzorec_adaptacija.search(oglas['opis'])
         if ujemanje1:
             oglas['adaptirano'] = int(ujemanje1['adaptirano'])
         else:
-            oglas['adaptirano'] = 'None'
+            oglas['adaptirano'] = None
 
         slovarji.append(oglas)
 
@@ -131,6 +131,7 @@ orodja.zapisi_csv(
      'velikost', 'cena', 'agencija', 'opis'],
     'obdelani-podatki/stanovanja.csv'
 )
+
 # zapišemo še v json datoteki za pregled
 
 orodja.zapisi_json(slovarji, 'obdelani-podatki/stanovanja.json')
