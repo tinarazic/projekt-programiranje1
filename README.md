@@ -4,14 +4,17 @@ V svoji projektni nalogi bom analizirala ponudbo stanovanj v Ljubljani.
 
 Podatke bom pridobila s spletne strani strani https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/. 
 Za vsako stanovanje bom pridobila naslednje podatke:
-- upravno enoto
-- tip stanovanja
-- leto gradnje
-- leto adapatcije
-- velikost stanovanja
-- ceno stanovanja
-- nadstropje
-- nepremičninsko agencijo
+- id stanovanja,
+- upravno enoto, v kateri se stanovanje nahaja
+- tip stanovanja,
+- leto gradnje,
+- leto adaptacije,
+- nadstropje,
+- velikost stanovanja,
+- ceno,
+- agencijo, ki stanovanje ponuja
+- kratek opis stanovanja.
+
 
 Nato pa bom s pomočjo urejenih podatkov poskušala analizirati:
 - v katerih upravnih enotah je ponudba največja?
