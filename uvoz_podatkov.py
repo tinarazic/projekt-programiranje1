@@ -8,7 +8,7 @@ import orodja
 # 'zajete-strani'
 
 # mapa, v katero bomo shranili podatke
-# 'obdelani-podatki'
+# 'obdelani_podatki'
 
 # ime CSV datoteke v katero bomo shranili podatke
 # 'stanovanja.csv'
@@ -30,9 +30,9 @@ for i in range(1, 60):
 # sestavimo regularani izraz, ki poišče vse bloke oglasov
 
 vzorec_bloka = re.compile(
-    r'<div class="oglas_container'
+    r'<div\sclass="oglas_container'
     r'.*?'
-    r'<div class="clearer"></div>',
+    r'<div\sclass="clearer"></div>',
     re.DOTALL)
 
 # sestavim regularni izraz za podatke, ki jih želim pridobiti iz oglasa
@@ -98,7 +98,7 @@ def izloci_podatke_oglasa(blok):
         else:
             oglas['enota'] = None
 
-        # dodamo leto adptacije, če je bila zgradba adaptirana
+        # dodamo leto adaptacije, če je bila zgradba adaptirana
         ujemanje1 = vzorec_adaptacija.search(oglas['opis'])
         if ujemanje1:
             oglas['adaptirano'] = int(ujemanje1['adaptirano'])
@@ -140,9 +140,9 @@ orodja.zapisi_csv(
     oglasi,
     ['id', 'enota', 'tip', 'leto', 'adaptirano', 'nadstropje',
      'velikost', 'cena', 'agencija', 'opis'],
-    'obdelani-podatki/stanovanja.csv'
+    'obdelani_podatki/stanovanja.csv'
 )
 
 # zapišem še v json datoteki za pregled
 
-orodja.zapisi_json(oglasi, 'obdelani-podatki/stanovanja.json')
+orodja.zapisi_json(oglasi, 'obdelani_podatki/stanovanja.json')
