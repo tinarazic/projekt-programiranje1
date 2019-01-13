@@ -4,7 +4,7 @@ V svoji projektni nalogi sem analizirala ponudbo stanovanj v Ljubljani.
 
 ## Pridobivanje podatkov
 
-Tabela o ponudbi stanovanj se nahaja v obdelani_podatki/stanovanja.csv. Podatke sem pridobila s spletne strani https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/. Regularni izrazi in koda, s katero sem pridobila podatke, so zapisani v datoteki uvoz_podatkov.py.
+Tabela o ponudbi stanovanj se nahaja v *obdelani_podatki/stanovanja.csv*. Podatke sem pridobila s spletne strani https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/. Regularni izrazi in koda, s katero sem pridobila podatke, so zapisani v datoteki *uvoz_podatkov.py*.
 
 Za vsako stanovanje sem pridobila naslednje podatke:
 - id stanovanja,
@@ -29,7 +29,7 @@ S pomočjo urejenih podatkov sem poskušala analizirati:
 - katera agencija ima v lasti največ ponudb?
 ...
 
-Rezultati moje analize so predstavljeni v datoteki Analiza ponudbe stanovanj v Ljubljani.ipynb.
+Rezultati moje analize so predstavljeni v datoteki **Analiza ponudbe stanovanj v Ljubljani.ipynb**.
 
 
 
