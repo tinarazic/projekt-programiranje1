@@ -29,7 +29,7 @@ S pomočjo urejenih podatkov sem poskušala analizirati:
 - katera agencija ima v lasti največ ponudb?
 ...
 
-Rezultati moje analize so predstavljeni v datoteki **Analiza ponudbe stanovanj v Ljubljani.ipynb**.
+Rezultati moje analize so predstavljeni v datoteki **_Analiza ponudbe stanovanj v Ljubljani.ipynb_**.
 
 
 
