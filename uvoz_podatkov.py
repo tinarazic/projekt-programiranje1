@@ -58,8 +58,8 @@ vzorec_oglasa = re.compile(
 
 # sestavim regularni izraz, ki bo iz naslova oglasa ugotovil upravno enoto
 
-vzorec_enota = re.compile(
-    r'class="title">(?P<enota>.*?)</span></a></h2>',
+vzorec_obmocje = re.compile(
+    r'class="title">(?P<obmocje>.*?)</span></a></h2>',
     flags=re.DOTALL
 )
 
@@ -91,12 +91,12 @@ def izloci_podatke_oglasa(blok):
         oglas['cena'] = float(oglas['cena'].replace('.', '').replace(',', '.'))
         oglas['agencija'] = str(oglas['agencija'])
 
-        # dodamo upravno enoto iz naslova
-        ujemanje = vzorec_enota.search(blok)
+        # dodamo obmocje iz naslova
+        ujemanje = vzorec_obmocje.search(blok)
         if ujemanje:
-            oglas['enota'] = str(ujemanje['enota']).split(',')[0]
+            oglas['obmocje'] = str(ujemanje['obmocje']).split(',')[0]
         else:
-            oglas['enota'] = None
+            oglas['obmocje'] = None
 
         # dodamo leto adaptacije, če je bila zgradba adaptirana
         ujemanje1 = vzorec_adaptacija.search(oglas['opis'])
@@ -131,14 +131,23 @@ for st_strani in range(1, 60):
 # v seznamu oglasi imam sedaj vse slovarje, ki predstavljajo posamezni oglas
 
 # vsak slovar vsebuje ključe:
-# id, tip, nadstropje, leto, opis, velikost, cena, agencija, enota, adaptirano
+# id, tip, nadstropje, leto, opis, velikost, cena, agencija, obmocje, adaptirano
+
+
+# popravimo ceno stanovanj, ki imajo napisano ceno na kvadratni meter
+cena_kvadratni_meter = [6085094,6220910,6180911,6180912,6219309,6221462,6208526,6136686]
+
+for slovar in oglasi:
+    for id in cena_kvadratni_meter:
+        if slovar['id'] == id :
+            slovar['cena'] *= slovar['velikost']
 
 # zapišem sedaj podatke v csv in razvrstim stolpce
 
 
 orodja.zapisi_csv(
     oglasi,
-    ['id', 'enota', 'tip', 'leto', 'adaptirano', 'nadstropje',
+    ['id', 'obmocje', 'tip', 'leto', 'adaptirano', 'nadstropje',
      'velikost', 'cena', 'agencija', 'opis'],
     'obdelani_podatki/stanovanja.csv'
 )
