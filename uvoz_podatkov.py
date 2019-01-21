@@ -131,15 +131,21 @@ for st_strani in range(1, 60):
 # v seznamu oglasi imam sedaj vse slovarje, ki predstavljajo posamezni oglas
 
 # vsak slovar vsebuje ključe:
-# id, tip, nadstropje, leto, opis, velikost, cena, agencija, obmocje, adaptirano
+# id, tip, nadstropje, leto, opis, velikost,
+# cena, agencija, obmocje, adaptirano
 
 
 # popravimo ceno stanovanj, ki imajo napisano ceno na kvadratni meter
-cena_kvadratni_meter = [6085094,6220910,6180911,6180912,6219309,6221462,6208526,6136686]
+# in ne skupne cene
+
+cena_kvadratni_meter = [6085094, 6220910, 6180911, 6180912, 6219309, 6221462, 6208526, 6136686]
+
 
 for slovar in oglasi:
+    if slovar['id'] == 6217331:
+        slovar['velikost'] = 80.9
     for id in cena_kvadratni_meter:
-        if slovar['id'] == id :
+        if slovar['id'] == id:
             slovar['cena'] *= slovar['velikost']
 
 # zapišem sedaj podatke v csv in razvrstim stolpce
