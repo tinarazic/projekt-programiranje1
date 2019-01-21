@@ -8,7 +8,7 @@ Tabela o ponudbi stanovanj se nahaja v *obdelani_podatki/stanovanja.csv*. Podatk
 
 Za vsako stanovanje sem pridobila naslednje podatke:
 - id stanovanja,
-- upravno enoto, v kateri se stanovanje nahaja,
+- območje
 - tip stanovanja,
 - leto gradnje,
 - leto adaptacije,
@@ -21,11 +21,11 @@ Za vsako stanovanje sem pridobila naslednje podatke:
 ## Hipoteze
 
 S pomočjo urejenih podatkov sem poskušala analizirati:
-- v katerih upravnih enotah je ponudba največja?
-- ali se prodaja več stanovanj v blokih ali v hišah?
+- na katerih območjih je ponudba največja?
+- kje so najdražja/najcenejša stanovanja?
 - ali leto gradnje vpliva na ceno?
 - ali se cena stanovanja res povečuje z velikostjo?
-- kje so najdražja stanovanja?
+- ali so adaptirana stanovanja dražja?
 - katera agencija ima v lasti največ ponudb?
 ...
 
